@@ -23,6 +23,9 @@ The material referenced here comes from "Potion Brewing and Ingredient Gathering
 
 The Gathering Journal entry and Recipe books require theripper93's **Gatherer and Mastercrafted premium modules**. More information on those at https://theripper93.com/
 
+
+These [recipes](/src/assets/recipes/) can be imported into theripper93's Mastercrafted module. You'll need to create a placeholder recipe book, then right click and import the desired collection from these files.
+
 ## Installation
 
 It's always easiest to install modules from the in game add-on browser.

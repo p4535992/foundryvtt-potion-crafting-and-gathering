@@ -1,35 +1,58 @@
-/**
- * This is your TypeScript entry file for Foundry VTT.
- * Register custom settings, sheets, and constants using the Foundry API.
- * Change this heading to be more descriptive to your module, or remove it.
- * Author: [your name]
- * Content License: [copyright and-or license] If using an existing system
- * 					you may want to put a (link to a) license or copyright
- * 					notice here (e.g. the OGL).
- * Software License: [your license] Put your desired license here, which
- * 					 determines how others may use and modify your module
- */
-// Import JavaScript modules
+/* ------------------------------------ */
+/* Constants					*/
+/* ------------------------------------ */
 
-// Import TypeScript modules
-import { registerSettings } from "./scripts/settings.js";
-import { initHooks, readyHooks, setupHooks } from "./scripts/main.js";
-import { error, i18n, warn } from "./scripts/lib/lib.js";
-import CONSTANTS from "./scripts/constants/constants.js";
-import API from "./scripts/API/api.js";
+const CONSTANTS = {
+  MODULE_ID: "potion-crafting-and-gathering",
+  PATH: `modules/potion-crafting-and-gathering/`,
+  PACK_UUID_ROLLTABLES: "potion-crafting-and-gathering.potion-crafting-and-gathering-tables",
+  PACK_UUID_JOURNALS: "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+  MODULE_FOLDER: `modules/potion-crafting-and-gathering/recipes`,
+  PACKS: ["potion-crafting-and-gathering-tables", "potion-crafting-and-gathering-journal"],
+};
+
+/* ------------------------------------ */
+/* Settings					*/
+/* ------------------------------------ */
+
+const SETTINGS = {
+  // Client settings
+
+  // Module Settings
+  booksImported: "booksImported",
+
+  // Style settings
+
+  // System Settings
+
+  // Hidden settings
+};
+
+export const registerSettings = function () {
+  game.settings.register(CONSTANTS.MODULE_ID, SETTINGS.booksImported, {
+    name: "Import Content on startup",
+    hint: "",
+    scope: "world",
+    config: true,
+    type: Boolean,
+    default: true,
+  });
+};
+
+/* ------------------------------------ */
+/* API					*/
+/* ------------------------------------ */
+
+const API = {
+  // You can put here some code and call on a macro with game.modules.get("potion-crafting-and-gathering").api
+};
 
 /* ------------------------------------ */
 /* Initialize module					*/
 /* ------------------------------------ */
 Hooks.once("init", async () => {
-  // console.log(`${CONSTANTS.MODULE_ID} | Initializing ${CONSTANTS.MODULE_ID}`);
-
   // Register custom module settings
   registerSettings();
-  initHooks();
-
-  // Preload Handlebars templates
-  //await preloadTemplates();
 });
 
 /* ------------------------------------ */
@@ -37,7 +60,9 @@ Hooks.once("init", async () => {
 /* ------------------------------------ */
 Hooks.once("setup", function () {
   // Do anything after initialization but before ready
-  setupHooks();
+
+  const data = game.modules.get(CONSTANTS.MODULE_ID);
+  data.api = API;
 });
 
 /* ------------------------------------ */
@@ -45,12 +70,26 @@ Hooks.once("setup", function () {
 /* ------------------------------------ */
 Hooks.once("ready", async () => {
   // Do anything once the module is ready
-  // if (!game.modules.get('lib-wrapper')?.active && game.user?.isGM) {
-  //   let word = 'install and activate';
-  //   if (game.modules.get('lib-wrapper')) word = 'activate';
-  //   throw error(`Requires the 'libWrapper' module. Please ${word} it.`);
-  // }
-  readyHooks();
+  if (!game.user.isGM || !game.settings.get(CONSTANTS.MODULE_ID, SETTINGS.booksImported)) {
+    return;
+  }
+
+  Dialog.confirm({
+    title: game.modules.get(CONSTANTS.MODULE_ID).title, // "Potion Crafting & Gathering",
+    content: "Do you want to import all tables, journals and recipes?",
+    yes: () => {
+      if (!game.modules.get("gatherer")?.active && game.user?.isGM) {
+        ui.notifications.warn(`You need to install and activate the module premium 'gatherer' for this`);
+        ui.notifications.warn(`You can still use the compendiums anyway as normal`);
+      } else {
+        importAll();
+      }
+    },
+    no: () => {
+      game.settings.set(CONSTANTS.MODULE_ID, SETTINGS.booksImported, false);
+    },
+    defaultYes: true,
+  });
 });
 
 /* ------------------------------------ */
@@ -61,38 +100,17 @@ Hooks.once("devModeReady", ({ registerPackageDebugFlag }) => {
   registerPackageDebugFlag(CONSTANTS.MODULE_ID);
 });
 
-/**
- * Initialization helper, to set API.
- * @param api to set to game module.
- */
-export function setApi(api) {
-  const data = game.modules.get(CONSTANTS.MODULE_ID);
-  data.api = api;
-}
-
-/**
- * Returns the set API.
- * @returns Api from games module.
- */
-export function getApi() {
-  const data = game.modules.get(CONSTANTS.MODULE_ID);
-  return data.api;
-}
-
-/**
- * Initialization helper, to set Socket.
- * @param socket to set to game module.
- */
-export function setSocket(socket) {
-  const data = game.modules.get(CONSTANTS.MODULE_ID);
-  data.socket = socket;
-}
-
-/*
- * Returns the set socket.
- * @returns Socket from games module.
- */
-export function getSocket() {
-  const data = game.modules.get(CONSTANTS.MODULE_ID);
-  return data.socket;
+async function importAll() {
+  const ROOT = CONSTANTS.MODULE_FOLDER;
+  const BOOKS = (await FilePicker.browse("user", ROOT)).files.filter((f) => f.endsWith(".json"));
+  for (let book of BOOKS) {
+    const bookData = await fetch(book).then((r) => r.json());
+    const bookObj = new ui.RecipeApp.RecipeBook(bookData);
+    await bookObj.saveData();
+  }
+  ui.notifications.notify("Potion Crafting & Gathering - Recipe Books Imported");
+  await game.packs.get(CONSTANTS.PACK_UUID_ROLLTABLES).importAll({ keepId: true });
+  await game.packs.get(CONSTANTS.PACK_UUID_JOURNALS).importAll({ keepId: true });
+  new ui.RecipeApp().render(true);
+  await game.settings.set(CONSTANTS.MODULE_ID, SETTINGS.booksImported, false);
 }
