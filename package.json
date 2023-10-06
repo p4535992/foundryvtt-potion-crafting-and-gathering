@@ -2,7 +2,7 @@
 	"name": "potion-crafting-and-gathering",
 	"title": "Potion Crafting & Gathering",
 	"description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
-	"version": "0.5.1",
+	"version": "0.7.1",
 	"main": "module.js",
 	"license": "SEE LICENSE IN LICENSE",
 	"private": true,
