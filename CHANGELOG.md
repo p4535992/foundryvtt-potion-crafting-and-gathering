@@ -1,3 +1,7 @@
+### 0.7.2
+
+- Some javascript
+
 ### 0.7.1
 
 - Transfer all the code the single module.js file

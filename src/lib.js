@@ -44,7 +44,7 @@
  */
 
 /**
- * @param {Object} recipe
+ * @param {Object} recipeMasterCrafted
  * @param {string} recipe.id (default null)
  * @param {RecipeBook} recipe.recipeBook (default null)
  * @param {string} recipe.sound (default "")
@@ -62,7 +62,7 @@
  *
  * @returns {RecipeBeaverCrafting} recipeBeaverCrafting
  */
-export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipe) {
+export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMasterCrafted) {
   const [
     id,
     recipeBook,
@@ -78,7 +78,7 @@ export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipe) {
     ingredientsInspection,
     productInspection,
     img,
-  ] = recipe;
+  ] = recipeMasterCrafted;
   let recipeBeaverCrafting = null;
   return recipeBeaverCrafting;
 }

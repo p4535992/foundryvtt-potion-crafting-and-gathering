@@ -8,8 +8,11 @@ const CONSTANTS = {
   PACK_UUID_ROLLTABLES: "potion-crafting-and-gathering.potion-crafting-and-gathering-tables",
   PACK_UUID_JOURNALS: "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
   MODULE_FOLDER: `modules/potion-crafting-and-gathering/assets/recipes`,
-  PACKS: ["potion-crafting-and-gathering-tables", "potion-crafting-and-gathering-journal"],
   GATHERER_MODULE_ID: "gatherer",
+  PACK_UUID_ALCHEMY: "potion-crafting-and-gathering.potion-crafting-and-gathering-alchemy",
+  PACK_UUID_HERBALISM: "potion-crafting-and-gathering.potion-crafting-and-gathering-herbalism",
+  PACK_UUID_INGREDIENTS: "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+  PACK_UUID_POISONS: "potion-crafting-and-gathering.potion-crafting-and-gathering-poisons",
 };
 
 /* ------------------------------------ */
