@@ -1,3 +1,7 @@
+// =======================
+// Mastercrafted models
+// =======================
+
 /**
  * @typedef {Object} ComponentMasterCrafted
  * @property {string} id -
@@ -21,6 +25,10 @@
  * @property {ComponentMasterCrafted[]} components -
  */
 
+// =======================
+// Beaver Crafting models
+// =======================
+
 /**
  * @typedef {Object} IngredientBeaverCrafting
  * @property {string} id -
@@ -43,22 +51,26 @@
  * @property {string} macro -
  */
 
+// =======================
+// Macros for conversion models
+// =======================
+
 /**
- * @param {Object} recipeMasterCrafted
- * @param {string} recipe.id (default null)
- * @param {RecipeBook} recipe.recipeBook (default null)
- * @param {string} recipe.sound (default "")
- * @param {number} recipe.time (default null)
- * @param {string} recipe.name (default "")
- * @param {string} recipe.macroName (default "")
- * @param {description} recipe.description (default "")
- * @param {Object} recipe.ownership (default {})
- * @param {IngredientMasterCrafted[]} recipe.ingredients (default [])
- * @param {ProductMasterCrafted[]} recipe.products (default [])
- * @param {string[]} recipe.tools (default [])
- * @param {(0|1)} recipe.ingredientsInspection (default 0)
- * @param {(0|1)} recipe.productInspection (default 0)
- * @param {string} recipe.img (default "icons/sundries/documents/document-bound-white-tan.webp")
+ * @param {Object} [recipeMasterCrafted={}]
+ * @param {string} [recipeMasterCrafted.id=null] (default null)
+ * @param {RecipeBook} [recipeMasterCrafted.recipeBook=null] (default null)
+ * @param {string} [recipeMasterCrafted.sound=""] (default "")
+ * @param {number} [recipeMasterCrafted.time=null] (default null)
+ * @param {string} [recipeMasterCrafted.name=""] (default "")
+ * @param {string} [recipeMasterCrafted.macroName=""] (default "")
+ * @param {description} [recipeMasterCrafted.description=""] (default "")
+ * @param {Object} [recipeMasterCrafted.ownership={}] (default {})
+ * @param {IngredientMasterCrafted[]} [recipeMasterCrafted.ingredients=[]] (default [])
+ * @param {ProductMasterCrafted[]} [recipeMasterCrafted.products=[]] (default [])
+ * @param {string[]} [recipeMasterCrafted.tools=[]] (default [])
+ * @param {(0|1)} [recipeMasterCrafted.ingredientsInspection=0] (default 0)
+ * @param {(0|1)} [recipeMasterCrafted.productInspection=0] (default 0)
+ * @param {string} [recipeMasterCrafted.img="icons/sundries/documents/document-bound-white-tan.webp"] (default "icons/sundries/documents/document-bound-white-tan.webp")
  *
  * @returns {RecipeBeaverCrafting} recipeBeaverCrafting
  */
@@ -80,5 +92,6 @@ export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMaster
     img,
   ] = recipeMasterCrafted;
   let recipeBeaverCrafting = null;
+  // TODO SOMETHING
   return recipeBeaverCrafting;
 }
