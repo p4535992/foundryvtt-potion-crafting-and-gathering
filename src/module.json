@@ -2,7 +2,7 @@
   "id": "potion-crafting-and-gathering",
   "title": "Potion Crafting & Gathering",
   "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "authors": [
     {
       "name": "Action Jay",
@@ -142,6 +142,21 @@
       "flags": {}
     }
   ],
+  "packFolders": [
+    {
+      "name": "Potion Crafting & Gathering",
+      "sorting": "m",
+      "color": "#FFC300",
+      "packs": [
+        "potion-crafting-and-gathering-ingredients",
+        "potion-crafting-and-gathering-alchemy",
+        "potion-crafting-and-gathering-herbalism",
+        "potion-crafting-and-gathering-poisons",
+        "potion-crafting-and-gathering-journal",
+        "potion-crafting-and-gathering-tables"
+      ]
+    }
+  ],
   "systems": [],
   "scripts": [],
   "esmodules": ["module.js"],
@@ -153,8 +168,8 @@
   },
   "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering",
-  "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.2/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.2/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.3/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.3/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/issues",
@@ -177,6 +192,20 @@
       }
     ],
     "requires": [],
-    "conflicts": []
+    "conflicts": [],
+    "recommends": [
+      {
+        "id": "compendium-themer",
+        "type": "module"
+      },
+      {
+        "id": "gatherer",
+        "type": "module"
+      },
+      {
+        "id": "mastercrafted",
+        "type": "module"
+      }
+    ]
   }
 }

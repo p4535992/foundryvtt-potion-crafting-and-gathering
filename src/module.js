@@ -66,8 +66,7 @@ Hooks.once("init", async () => {
 Hooks.once("setup", function () {
   // Do anything after initialization but before ready
 
-  const data = game.modules.get(CONSTANTS.MODULE_ID);
-  data.api = API;
+  game.modules.get(CONSTANTS.MODULE_ID).api = API;
 });
 
 /* ------------------------------------ */
@@ -84,8 +83,10 @@ Hooks.once("ready", async () => {
     content: "Do you want to import all tables, journals and recipes?",
     yes: () => {
       if (!game.modules.get(CONSTANTS.GATHERER_MODULE_ID)?.active && game.user?.isGM) {
-        ui.notifications.warn(`You need to install and activate the module premium 'gatherer' for this`);
-        ui.notifications.warn(`You can still use the compendiums anyway as normal`);
+        ui.notifications.warn(
+          `${CONSTANTS.MODULE_ID} | You need to install and activate the module premium 'gatherer' for this`
+        );
+        ui.notifications.warn(`${CONSTANTS.MODULE_ID} | You can still use the compendiums anyway as normal`);
       } else {
         importAll();
       }
@@ -113,7 +114,7 @@ async function importAll() {
     const bookObj = new ui.RecipeApp.RecipeBook(bookData);
     await bookObj.saveData();
   }
-  ui.notifications.notify("Potion Crafting & Gathering - Recipe Books Imported");
+  ui.notifications.notify(`${CONSTANTS.MODULE_ID} | Potion Crafting & Gathering - Recipe Books Imported`);
   await game.packs.get(CONSTANTS.PACK_UUID_ROLLTABLES).importAll({ keepId: true });
   await game.packs.get(CONSTANTS.PACK_UUID_JOURNALS).importAll({ keepId: true });
   new ui.RecipeApp().render(true);
