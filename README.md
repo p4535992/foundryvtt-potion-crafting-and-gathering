@@ -19,7 +19,7 @@ Most of the original work was done by [action-jay](https://github.com/action-jay
 
 This contains compendium db files and roll tables for gathering materials and crafting items using an Herbalism, Alchemist, and Poisoner kits.
 
-The material referenced here comes from "Potion Brewing and Ingredient Gathering for DnD 5e" by piccolo917 available free on GM Binder at [Potion Brewing and Ingredient Gathering for DnD 5e](https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV) or here on the project [Potion Brewing and Ingredient Gathering for DnD 5e (Local)](https://raw.githubusercontent.com/p4535992/foundryvtt-potion-crafting-and-gathering/master/wiki/docs/Potion%20Brewing%20and%20Ingredient%20Gathering%20for%20DnD%205e%20_%20GM%20Binder.pdf)
+The material referenced here comes from "Potion Brewing and Ingredient Gathering for DnD 5e" by piccolo917 available free on GM Binder at [Potion Brewing and Ingredient Gathering for DnD 5e](https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV) or here on the project [Potion Brewing and Ingredient Gathering for DnD 5e (Local)](https://raw.githubusercontent.com/p4535992/foundryvtt-potion-crafting-and-gathering/master/wiki/docs/Potion_Brewing_and_Ingredien_Gathering_for_DnD5e_GM_Binder.pdf)
 
 The Gathering Journal entry and Recipe books require theripper93's **Gatherer and Mastercrafted premium modules**. More information on those at https://theripper93.com/
 
