@@ -199,7 +199,7 @@
  * @returns {RecipeDataBeaverCrafting} recipeBeaverCrafting
  */
 export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMasterCrafted) {
-  const [
+  const {
     id,
     recipeBook,
     sound,
@@ -214,7 +214,7 @@ export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMaster
     ingredientsInspection,
     productInspection,
     img,
-  ] = recipeMasterCrafted;
+  } = recipeMasterCrafted;
   let recipeBeaverCrafting = null;
   // TODO SOMETHING
   return recipeBeaverCrafting;
@@ -226,7 +226,7 @@ export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMaster
  * @returns {RecipeMasterCrafted} recipeMasterCrafted
  */
 export function convertJsonRecipeBeaverCraftingToJsonRecipeGatherer(recipeBeaverCrafting) {
-  const [
+  const {
     input,
     output,
     required,
@@ -240,7 +240,7 @@ export function convertJsonRecipeBeaverCraftingToJsonRecipeGatherer(recipeBeaver
     macro,
     folder,
     instruction,
-  ] = recipeBeaverCrafting;
+  } = recipeBeaverCrafting;
   let recipeMasterCrafted = null;
   // TODO SOMETHING
   return recipeMasterCrafted;
