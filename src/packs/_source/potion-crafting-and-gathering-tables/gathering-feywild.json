@@ -1,0 +1,81 @@
+{
+  "name": "Gathering: Feywild",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "text": "Fairy Stool",
+      "type": 2,
+      "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "sVmMWfGw0GaHdL0v",
+      "documentId": "gM92fpjY9teFQ8ew",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!urihnJ5T4ibIvHkP.sVmMWfGw0GaHdL0v"
+    },
+    {
+      "text": "Pixie's Parasol",
+      "type": 2,
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+      "weight": 3,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "82CtEzWREbc0zwOe",
+      "documentId": "WglM0mvztSmJL7Lv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d12"
+          }
+        }
+      },
+      "_key": "!tables.results!urihnJ5T4ibIvHkP.82CtEzWREbc0zwOe"
+    }
+  ],
+  "formula": "1d37",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "10.288",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1666008178126,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "urihnJ5T4ibIvHkP",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!urihnJ5T4ibIvHkP"
+}

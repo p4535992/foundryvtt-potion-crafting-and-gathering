@@ -1,0 +1,37 @@
+{
+  "name": "Dracula's Blood",
+  "type": "loot",
+  "img": "icons/skills/wounds/blood-cells-vessel-red-orange.webp",
+  "system": {
+    "description": {
+      "value": "<section id=\"secret-qRxWk9avtN6PtLjH\" class=\"secret\"><p>Rarity: Very Rare (DC 20)</p><p>Harvesting: Alchemist's Kit (DC 10)</p><p>Quantity: 1d4 vials</p><p>Creature Condition: Dead or incapacitated</p><p>Uses (2): Dracula's Essence, Thessaltoxin</p></section>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
+    "quantity": 1,
+    "weight": 0,
+    "price": 150,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "10.288",
+    "createdTime": 1665869489229,
+    "modifiedTime": 1666006629513,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "0Lapqd8kzpmS0R0z",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0Lapqd8kzpmS0R0z"
+}
