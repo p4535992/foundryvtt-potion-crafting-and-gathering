@@ -1,4 +1,8 @@
-### 0-7-3
+### 0.7.4
+
+- Exported, cleaned and packed the packs for better readibility on git
+
+### 0.7.3
 
 - Add Pack Folder
 
