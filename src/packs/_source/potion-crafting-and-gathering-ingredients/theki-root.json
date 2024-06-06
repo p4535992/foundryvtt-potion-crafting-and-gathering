@@ -84,7 +84,10 @@
     },
     "source": "Potion Brewing and Ingredient Gathering for DnD 5e",
     "quantity": 1,
-    "weight": 0,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
     "price": 10,
     "attunement": 0,
     "equipped": false,

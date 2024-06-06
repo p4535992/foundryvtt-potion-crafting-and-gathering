@@ -83,7 +83,10 @@
     },
     "source": "Journeys through the Radiant Citadel",
     "quantity": 1,
-    "weight": 0,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
     "price": 0,
     "attunement": 0,
     "equipped": false,

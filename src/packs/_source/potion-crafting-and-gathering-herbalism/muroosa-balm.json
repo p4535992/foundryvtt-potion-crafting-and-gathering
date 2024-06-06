@@ -83,7 +83,10 @@
     },
     "source": "Explorer's Guide to Wildemount",
     "quantity": 1,
-    "weight": 0,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
     "price": 100,
     "attunement": 0,
     "equipped": false,

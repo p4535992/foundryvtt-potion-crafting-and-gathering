@@ -2,7 +2,7 @@
   "id": "potion-crafting-and-gathering",
   "title": "Potion Crafting & Gathering",
   "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "authors": [
     {
       "name": "Action Jay",
@@ -164,16 +164,14 @@
   "compatibility": {
     "minimum": 11,
     "verified": 11,
-    "maximum": 11
+    "maximum": 12
   },
-  "manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering",
-  "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.5/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.5/module.zip",
+  "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.6/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/0.7.6/module.zip",
   "readme": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/README.md",
   "changelog": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/CHANGELOG.md",
   "bugs": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/issues",
-  "allowBugReporter": true,
   "relationships": {
     "systems": [
       {
@@ -181,7 +179,8 @@
         "type": "system",
         "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
         "compatibility": {
-          "verified": "2.2.1"
+            "minimum": "3.2.0",
+            "verified": "3.2.0"
         }
       },
       {

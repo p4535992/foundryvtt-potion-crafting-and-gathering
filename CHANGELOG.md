@@ -1,4 +1,9 @@
-### 0.7.4
+### 0.7.6
+
+- Start v12 compatibility
+- Update items for Dnd5e System 3.2.0
+
+### 0.7.4-5
 
 - Exported, cleaned and packed the packs for better readibility on git
 
