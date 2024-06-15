@@ -1,8 +1,8 @@
 {
-	"id": "creature-loot-crafting-and-gathering",
-    "title": "Creature Loot",
-    "description": "Collating Jon Gazda's Creature Loot supplements for use in Foundry with theripper93's premium modules.",
-    "version": "0.3.1",
+	"name": "potion-crafting-and-gathering",
+	"title": "Potion Crafting & Gathering",
+	"description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
+	"version": "0.5.1",
 	"main": "module.js",
 	"license": "SEE LICENSE IN LICENSE",
 	"private": true,

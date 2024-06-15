@@ -199,25 +199,25 @@
  * @returns {RecipeDataBeaverCrafting} recipeBeaverCrafting
  */
 export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMasterCrafted) {
-  const {
-    id,
-    recipeBook,
-    sound,
-    time,
-    name,
-    macroName,
-    description,
-    ownership,
-    ingredients,
-    products,
-    tools,
-    ingredientsInspection,
-    productInspection,
-    img,
-  } = recipeMasterCrafted;
-  let recipeBeaverCrafting = null;
-  // TODO SOMETHING
-  return recipeBeaverCrafting;
+    const {
+        id,
+        recipeBook,
+        sound,
+        time,
+        name,
+        macroName,
+        description,
+        ownership,
+        ingredients,
+        products,
+        tools,
+        ingredientsInspection,
+        productInspection,
+        img,
+    } = recipeMasterCrafted;
+    let recipeBeaverCrafting = null;
+    // TODO SOMETHING
+    return recipeBeaverCrafting;
 }
 
 /**
@@ -226,22 +226,22 @@ export function convertJsonRecipeGathererToJsonRecipeBeaverCrafting(recipeMaster
  * @returns {RecipeMasterCrafted} recipeMasterCrafted
  */
 export function convertJsonRecipeBeaverCraftingToJsonRecipeGatherer(recipeBeaverCrafting) {
-  const {
-    input,
-    output,
-    required,
-    ingredients,
-    results,
-    attendants,
-    tests,
-    skill,
-    currency,
-    tool,
-    macro,
-    folder,
-    instruction,
-  } = recipeBeaverCrafting;
-  let recipeMasterCrafted = null;
-  // TODO SOMETHING
-  return recipeMasterCrafted;
+    const {
+        input,
+        output,
+        required,
+        ingredients,
+        results,
+        attendants,
+        tests,
+        skill,
+        currency,
+        tool,
+        macro,
+        folder,
+        instruction,
+    } = recipeBeaverCrafting;
+    let recipeMasterCrafted = null;
+    // TODO SOMETHING
+    return recipeMasterCrafted;
 }
