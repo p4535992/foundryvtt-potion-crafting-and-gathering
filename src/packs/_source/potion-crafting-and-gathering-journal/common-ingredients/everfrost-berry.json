@@ -1,0 +1,93 @@
+{
+  "folder": "47dY51UpgRXlMYte",
+  "name": "Everfrost Berry",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "a4eeefa50841ef144253922bf35d819a714aa022",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Everfrost Berry",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A babyblue, heartshaped berry the size of a blueberry known for their purifying properties. The plants these berries grow on are wholly immune to any frost damage, and are known for their abundance of fruit during harsh winters.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 187500,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.YlV8V75VgO1Yc8nV",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 5,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934212112,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "hOEjfVYXGPG7UP1r",
+      "_key": "!journal.pages!RaSduyTpoi8MJHaS.hOEjfVYXGPG7UP1r"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717784996690,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 300000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "RaSduyTpoi8MJHaS",
+  "_key": "!journal!RaSduyTpoi8MJHaS"
+}

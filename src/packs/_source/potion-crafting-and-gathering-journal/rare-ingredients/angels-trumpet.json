@@ -1,0 +1,93 @@
+{
+  "folder": "XnMlxg3YXW2ZnZ77",
+  "name": "Angel's Trumpet",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "b8db43538f228e703c2a50415090df71820606ac",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Angel's Trumpet",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Its name is based on the shape and beauty of the flower: the purest of white and trumpet shaped with yellow stems. However, it is a dangerous plant. Inhaling the scent directly from the flower forces a DC 13 Wisdom saving throw. A failed save leaves the target confused for 1 minute. During this period, the target cannot move, take actions or reactions. This characteristic has been used in poisons to paralyze targets or make slaves more docile.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 500000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.zeaRezxyo0ePdyXC",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934211832,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "VKGTEPQjsv2kDjcO",
+      "_key": "!journal.pages!guRH7y0wpnWVygsB.VKGTEPQjsv2kDjcO"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717785001149,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "guRH7y0wpnWVygsB",
+  "_key": "!journal!guRH7y0wpnWVygsB"
+}

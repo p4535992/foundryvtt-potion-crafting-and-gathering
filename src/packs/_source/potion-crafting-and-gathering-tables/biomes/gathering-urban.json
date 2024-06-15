@@ -1,0 +1,125 @@
+{
+  "name": "Gathering: Urban",
+  "description": "<p>Roll [[/skill nature]] to determine what ingredients can be discovered</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "_id": "PSu9ZTWPhYy9Oqxk",
+      "text": "<b>Uncommon Ingredients (DC 15)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!YrAiXJxImTr3d8Aw.PSu9ZTWPhYy9Oqxk"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Bane Berry",
+      "documentId": "0BLrfMfXqzCVGs6B",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qbS6HOWR1qVDk6Kw",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!YrAiXJxImTr3d8Aw.qbS6HOWR1qVDk6Kw"
+    },
+    {
+      "type": 0,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "cFjHkGgYJawaB7Yc",
+      "text": "<b>Rare Ingredients (DC 20)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!YrAiXJxImTr3d8Aw.cFjHkGgYJawaB7Yc"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Pixie's Parasol",
+      "documentId": "id1Bz3EWWIAA7yLz",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gkzHCXVlK2YzZCzg",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!YrAiXJxImTr3d8Aw.gkzHCXVlK2YzZCzg"
+    }
+  ],
+  "formula": "20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.rJEG99hSkt68TSuh",
+      "hash": "5b4a854e858d9dcfc71757532d246327d3cd09d6"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1717785211907,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "TvwAbXFsj3fssBgd",
+  "ownership": {
+    "default": 0
+  },
+  "_id": "YrAiXJxImTr3d8Aw",
+  "sort": 0,
+  "_key": "!tables!YrAiXJxImTr3d8Aw"
+}

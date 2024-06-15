@@ -1,0 +1,103 @@
+{
+  "name": "Gathering: Underground",
+  "description": "<p>Roll [[/skill nature]] to determine what ingredients can be discovered</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "_id": "PSu9ZTWPhYy9Oqxk",
+      "text": "<b>Uncommon Ingredients (DC 15)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!LBXFtflFpt7r9UeA.PSu9ZTWPhYy9Oqxk"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Mandrake Root",
+      "documentId": "aXWX1gn7GAy7TchG",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zEttviH8347euaEv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!LBXFtflFpt7r9UeA.zEttviH8347euaEv"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Mindflayer Stinkhorn",
+      "documentId": "lbkJLfK22rZR5TUo",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9lofY3xW96HiV4gM",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!LBXFtflFpt7r9UeA.9lofY3xW96HiV4gM"
+    }
+  ],
+  "formula": "20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.ypElQWFD2tP1PHwS",
+      "hash": "5a59856a02820846be5f69c2b29b6859d6789523"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1717785210168,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "TvwAbXFsj3fssBgd",
+  "ownership": {
+    "default": 0
+  },
+  "_id": "LBXFtflFpt7r9UeA",
+  "sort": 0,
+  "_key": "!tables!LBXFtflFpt7r9UeA"
+}

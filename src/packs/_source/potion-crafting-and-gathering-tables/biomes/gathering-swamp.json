@@ -1,0 +1,301 @@
+{
+  "name": "Gathering: Swamp",
+  "description": "<p>Roll [[/skill nature]] to determine what ingredients can be discovered</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        20
+      ],
+      "drawn": false,
+      "_id": "PSu9ZTWPhYy9Oqxk",
+      "text": "<b>Common Ingredients (DC 10)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.PSu9ZTWPhYy9Oqxk"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        10,
+        20
+      ],
+      "drawn": false,
+      "text": "Red Amanita Mushroom",
+      "documentId": "oEfIWGHJ417BCatI",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "IWVRar6BBsPUI5d1",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.IWVRar6BBsPUI5d1"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        10,
+        20
+      ],
+      "drawn": false,
+      "text": "Gillyweed",
+      "documentId": "D16YRFdmBrFFgq0c",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pvXEFeuTqIWrxZgu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.pvXEFeuTqIWrxZgu"
+    },
+    {
+      "type": 0,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "_id": "z5rYRgN4QwrmIfsT",
+      "text": "<b>Uncommon Ingredients (DC 15)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.z5rYRgN4QwrmIfsT"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Singing Nettle",
+      "documentId": "rbY0sV31nL3ttm87",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "HAHyN8aKjaQzu91S",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.HAHyN8aKjaQzu91S"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Theki Root",
+      "documentId": "ndkLnjIOvBeoHjYc",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "qT4YdAOL3QfBA4SB",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.qT4YdAOL3QfBA4SB"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Willowshade Fruit",
+      "documentId": "D90BULTIZaVutOBQ",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0qPRObMvf49gkWzj",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.0qPRObMvf49gkWzj"
+    },
+    {
+      "type": 0,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "dVr3GHBJCrWbMEzh",
+      "text": "<b>Rare Ingredients (DC 20)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.dVr3GHBJCrWbMEzh"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Death Cap",
+      "documentId": "OGec4xXabyVqYAvw",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "IptwFc92bmr3hlC9",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.IptwFc92bmr3hlC9"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Hagfinger",
+      "documentId": "YSSKLVjNiV6CdJL6",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "tdvEc42GpeMkSd64",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.tdvEc42GpeMkSd64"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Moonstalker",
+      "documentId": "I0USTRPVudN1mqW6",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4RIb89XIylS7JOn8",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.4RIb89XIylS7JOn8"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Pixie's Parasol",
+      "documentId": "id1Bz3EWWIAA7yLz",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "LlCe4v4x6phQOSbq",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!WC4JJSNFmZBDUA0k.LlCe4v4x6phQOSbq"
+    }
+  ],
+  "formula": "20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.QEEDcKjYDkxUifLN",
+      "hash": "6c48d03e4c76f3ea166d7e3ccd1e5c1509257d60"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1717785208316,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "TvwAbXFsj3fssBgd",
+  "ownership": {
+    "default": 0
+  },
+  "_id": "WC4JJSNFmZBDUA0k",
+  "sort": 0,
+  "_key": "!tables!WC4JJSNFmZBDUA0k"
+}
