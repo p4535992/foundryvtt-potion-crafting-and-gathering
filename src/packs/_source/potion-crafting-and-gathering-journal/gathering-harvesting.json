@@ -1,0 +1,642 @@
+{
+  "name": "Gathering & Harvesting",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Arctic",
+      "type": "text",
+      "_id": "eQrjG6pb7y3lxfUU",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.UrhXVaKOH5qBpEi3",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15
+        }
+      },
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.eQrjG6pb7y3lxfUU"
+    },
+    {
+      "sort": 100000,
+      "name": "Blightshore",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.Rk8vgXLFmzJ9wc3u",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 20
+        }
+      },
+      "_id": "zcBjFDkrK8qnLf7m",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.zcBjFDkrK8qnLf7m"
+    },
+    {
+      "sort": 100000,
+      "name": "Coast",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.ExBxGVPNbit8FYIz",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10,
+          "data": {
+            "uuid": "JournalEntry.fpkryQj2OxL10Dkh.JournalEntryPage.40yKrtUaKhSDNIGp",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_id": "40yKrtUaKhSDNIGp",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.40yKrtUaKhSDNIGp"
+    },
+    {
+      "sort": 100000,
+      "name": "Desert",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.98yWStx4EoQY3Eex",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15
+        }
+      },
+      "_id": "9odk0aLUoyEaKHyW",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.9odk0aLUoyEaKHyW"
+    },
+    {
+      "sort": 100000,
+      "name": "Forests",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.DMitUeO7hzFz2lmi",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10,
+          "data": {
+            "uuid": "JournalEntry.fpkryQj2OxL10Dkh.JournalEntryPage.ufCuZsRbp2pXSb8o",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_id": "ufCuZsRbp2pXSb8o",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.ufCuZsRbp2pXSb8o"
+    },
+    {
+      "sort": 100000,
+      "name": "Grasslands",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.VYVMhkw2JS3JRl16",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10,
+          "data": {
+            "uuid": "JournalEntry.fpkryQj2OxL10Dkh.JournalEntryPage.9N04bzl7wQiXMRrl",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_id": "9N04bzl7wQiXMRrl",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.9N04bzl7wQiXMRrl"
+    },
+    {
+      "sort": 100000,
+      "name": "Hill",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.CIvugLRRsEfEe9oN",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 20,
+          "data": {
+            "uuid": "JournalEntry.fpkryQj2OxL10Dkh.JournalEntryPage.lNwy08ByPDCZfCHS",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_id": "lNwy08ByPDCZfCHS",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.lNwy08ByPDCZfCHS"
+    },
+    {
+      "sort": 100000,
+      "name": "Mountains",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.ixlXDcsu8V9mhqEG",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15
+        }
+      },
+      "_id": "2mRRTxAFMOmEHfmy",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.2mRRTxAFMOmEHfmy"
+    },
+    {
+      "sort": 100000,
+      "name": "Savannahs",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.fHDjKsmVn9rgQJft",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10
+        }
+      },
+      "_id": "5bS0N3ftLnpWHfe5",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.5bS0N3ftLnpWHfe5"
+    },
+    {
+      "sort": 100000,
+      "name": "Swamp",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.jcwcRtYntdgygpeP",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10,
+          "data": {
+            "uuid": "JournalEntry.fpkryQj2OxL10Dkh.JournalEntryPage.aG1sufUNXvXV2j4M",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_id": "aG1sufUNXvXV2j4M",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.aG1sufUNXvXV2j4M"
+    },
+    {
+      "sort": 100000,
+      "name": "Urban Areas",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.V3Sn8hbdCAz21S9m",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15
+        }
+      },
+      "_id": "s6Q90i2oREUSQrqw",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.s6Q90i2oREUSQrqw"
+    },
+    {
+      "sort": 100000,
+      "name": "Underground",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.dkgHy4oOAhO2mqxJ",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15
+        }
+      },
+      "_id": "rIqirP9OQOKXwFJb",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.rIqirP9OQOKXwFJb"
+    },
+    {
+      "sort": 100000,
+      "name": "Volcanos",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "gatherer": {
+          "table": "RollTable.AzUAaxT1dM4dn0Xv",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "Herbalism Kit",
+          "minigame": 500,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 20
+        }
+      },
+      "_id": "2y4m0vGRMmI7T3jD",
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.2y4m0vGRMmI7T3jD"
+    },
+    {
+      "sort": -100000,
+      "name": "Welcome",
+      "type": "text",
+      "_id": "TU72H3HbSOrR56CR",
+      "title": {
+        "show": false,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Hello! This is a little module I put together to create a crafting system in Foundry using the <a href=\"https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV\">Potion Crafting and Gathering</a> supplement. This is my first time packaging content up like this, so it'll be a little messy for a while. Regardless, enjoy!</p><p></p><h2>Required modules</h2><ul><li><p>Gatherer for gathering</p><ul><li><p>Better Roll Tables for gathering in quantities</p></li></ul></li><li><p>Mastercrafted for crafting</p></li></ul><p></p><h2>Recommended modules</h2><ul><li><p>midiQOL for automatic rolling of stuff</p></li><li><p>Dynamic Active Effects for applying effects when a player eats a mushroom or drinks a potion</p></li><li><p>Rest Recovery 5e so edible ingredients count towards sating hunger</p><p></p></li></ul><h2>Setup</h2><p>For Gatherer nodes to work, you'll need to import the Potion Crafting and Gathering Tables compendium to your world.</p><p>For crafting, create a placeholder recipe book in Mastercrafted, then right click and import the desired book from the Recipes folder included with this module</p><p></p><h2>Credits</h2><ul><li><p>Content is by <a href=\"https://www.patreon.com/user/posts?u=78783518\">piccolo917</a></p></li><li><p>Gatherer and Mastercrafted modules by <a href=\"https://www.patreon.com/theripper93/posts\">theripper93</a></p></li><li><p>Nerd work by <a href=\"http://www.actionjay.com/\">action_jay</a></p></li></ul>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_key": "!journal.pages!k32xaKrBYjEg1Qn6.TU72H3HbSOrR56CR"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "10.288",
+    "createdTime": 1665937586890,
+    "modifiedTime": 1666153429490,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "ownership": {
+    "default": 0
+  },
+  "folder": null,
+  "sort": 0,
+  "_id": "k32xaKrBYjEg1Qn6",
+  "_key": "!journal!k32xaKrBYjEg1Qn6"
+}
