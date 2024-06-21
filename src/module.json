@@ -163,7 +163,7 @@
   "styles": [],
   "compatibility": {
     "minimum": 11,
-    "verified": 11,
+    "verified": 12,
     "maximum": 12
   },
   "url": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering",
