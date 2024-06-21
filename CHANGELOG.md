@@ -1,3 +1,11 @@
+### 0.8.2
+
+- Downgrade eto 0.7.6
+
+### 0.8.1
+
+- Try to do something
+
 ### 0.7.6
 
 - Start v12 compatibility
