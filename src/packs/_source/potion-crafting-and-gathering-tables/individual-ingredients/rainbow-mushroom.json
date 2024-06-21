@@ -1,0 +1,59 @@
+{
+  "folder": "YG1nH5ZGeQGZTjFl",
+  "name": "Rainbow Mushroom",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Rainbow Mushroom",
+      "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "documentId": "O0eT04b4AYt7qvr9",
+      "_id": "TFYCkQgixlUB3oHf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_key": "!tables.results!qp0CzflMWImzgVVN.TFYCkQgixlUB3oHf"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "hash": "f3628e29ed9168c2c39d828bbd88612079104e17"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1674400520027,
+    "modifiedTime": 1717784812800,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "qp0CzflMWImzgVVN",
+  "_key": "!tables!qp0CzflMWImzgVVN"
+}

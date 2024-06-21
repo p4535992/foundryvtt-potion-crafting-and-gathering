@@ -1,0 +1,59 @@
+{
+  "folder": "YG1nH5ZGeQGZTjFl",
+  "name": "Fairy Stool",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Fairy Stool",
+      "img": "icons/consumables/mushrooms/umbontae-pink.webp",
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "documentId": "gM92fpjY9teFQ8ew",
+      "_id": "4Hs5OigTyNvhMEk4",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!dskBLv8690ufvh2T.4Hs5OigTyNvhMEk4"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "hash": "1dee1f51d8c8cede6026203179a624562c29e682"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1674400520027,
+    "modifiedTime": 1717784812800,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "dskBLv8690ufvh2T",
+  "_key": "!tables!dskBLv8690ufvh2T"
+}

@@ -1,0 +1,93 @@
+{
+  "folder": "XnMlxg3YXW2ZnZ77",
+  "name": "Blight Spores",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "00418c99c00b531720bf07f1de5c296a7ef9f4c6",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Blight Spores",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Bright red spores from Blightshrooms, growing exclusively in caves on the Blightshore and the Eastern side of the Penumbra Range. A creature exposed to a large dose of the spores must succeed a DC 16 Constitution saving throw or be Poisoned for 3d6 hours. While the creature is poisoned, it experiences the same effects as if it were under the Confusion spell. A restoration spell or a dose of antitoxin can remove the effect.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 650000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.6akmLNbwC88TEFLu",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934212685,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "N6rLdWYnrE3yVxfE",
+      "_key": "!journal.pages!fhoZN9cFe0Ht3Hcx.N6rLdWYnrE3yVxfE"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717785001149,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "fhoZN9cFe0Ht3Hcx",
+  "_key": "!journal!fhoZN9cFe0Ht3Hcx"
+}

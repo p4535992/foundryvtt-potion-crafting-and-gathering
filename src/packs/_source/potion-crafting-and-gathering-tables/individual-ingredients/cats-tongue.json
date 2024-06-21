@@ -1,0 +1,59 @@
+{
+  "folder": "YG1nH5ZGeQGZTjFl",
+  "name": "Cat's Tongue",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Cat's Tongue",
+      "img": "icons/consumables/plants/mint-dried-green.webp",
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "documentId": "8U61IScvrNcit1ZJ",
+      "_id": "YIaMNhk9Cmdtl2FQ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!NcCIhySKNRymRMM4.YIaMNhk9Cmdtl2FQ"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "hash": "3e259937e1969cd7088942652401d500f9140b37"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1674400520027,
+    "modifiedTime": 1717784812800,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "NcCIhySKNRymRMM4",
+  "_key": "!tables!NcCIhySKNRymRMM4"
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "YG1nH5ZGeQGZTjFl",
+  "name": "Olisuba Leaf",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Olisuba Leaf",
+      "img": "icons/magic/nature/leaf-glow-triple-green.webp",
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "documentId": "pENSKogWx0Tz0fzn",
+      "_id": "KYsd4hXbRbPyoM23",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_key": "!tables.results!6SB0bcYJnP5ii7Jt.KYsd4hXbRbPyoM23"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "hash": "52e1250b999aa9fe0ef68736c3bff1c586d53792"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1674400520027,
+    "modifiedTime": 1717784812800,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "6SB0bcYJnP5ii7Jt",
+  "_key": "!tables!6SB0bcYJnP5ii7Jt"
+}

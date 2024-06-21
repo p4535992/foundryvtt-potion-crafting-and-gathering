@@ -1,0 +1,94 @@
+{
+  "folder": "XnMlxg3YXW2ZnZ77",
+  "name": "Idle Claws",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "1401e33626a5d4552388cbb515b3e4a9d8b4a65f",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Idle Claws",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This extremely long lived and slow growing creeper vine is named after its equally long lasting flowers. They form large clusters of claw shaped, slightly fluorescent, turquoise flowers that seem to flower for years. It's been theorized that this plant experiences time at a different rate than the rest of the world. Due to its slow growth, it produces very few seed pods each year. These pods are sought after for their use in potions.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.rH9n45NY6uXmHDpT",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934212892,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "AVJRVyjvuAXYj0rD",
+      "_key": "!journal.pages!Pszwb4ULFyuCfBNt.AVJRVyjvuAXYj0rD"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717785001149,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "Pszwb4ULFyuCfBNt",
+  "_key": "!journal!Pszwb4ULFyuCfBNt"
+}

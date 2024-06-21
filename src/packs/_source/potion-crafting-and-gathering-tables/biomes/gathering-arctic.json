@@ -1,0 +1,125 @@
+{
+  "name": "Gathering: Arctic",
+  "description": "<p>Roll [[/skill nature]] to determine what ingredients can be discovered</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "_id": "36WWah8Vs2fbfBRD",
+      "text": "<b>Uncommon Ingredients (DC 15)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!oprgnfvYsnrfiOAU.36WWah8Vs2fbfBRD"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Frost Lichen",
+      "documentId": "ChSNWezR3oPHJOiY",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "PuquXPqA3QNIRk1a",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!oprgnfvYsnrfiOAU.PuquXPqA3QNIRk1a"
+    },
+    {
+      "type": 0,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "p9yajmLht4G0w1uY",
+      "text": "<b>Rare Ingredients (DC 20)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!oprgnfvYsnrfiOAU.p9yajmLht4G0w1uY"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Silverthorn",
+      "documentId": "7caHb0t1zo6zKGfA",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i6Vl9brfGxZWAZGt",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!oprgnfvYsnrfiOAU.i6Vl9brfGxZWAZGt"
+    }
+  ],
+  "formula": "20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.UrhXVaKOH5qBpEi3",
+      "hash": "2088ce71751be28fc1652dfff86eaf05a11ad08e"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1717785204209,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "TvwAbXFsj3fssBgd",
+  "ownership": {
+    "default": 0
+  },
+  "_id": "oprgnfvYsnrfiOAU",
+  "sort": 500000,
+  "_key": "!tables!oprgnfvYsnrfiOAU"
+}

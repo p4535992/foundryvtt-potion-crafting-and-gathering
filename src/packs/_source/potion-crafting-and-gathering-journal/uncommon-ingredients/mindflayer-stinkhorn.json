@@ -1,0 +1,94 @@
+{
+  "folder": "18mYuIZrOclIG2Xk",
+  "name": "Mindflayer Stinkhorn",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "82ba89748c3d2dd6cb38ecf7f204629e7be5b18d",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Mindflayer Stinkhorn",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This purple fungus has slimy, tentacle-looking stalks and smells of rotting flesh. A creature who eats this fungus must make a Constitution saving throw (DC10). On a success, the creature can cast detect thoughts at will for 1 hour, requiring no material components. On a failure, the creature takes 1d6 psychic damage.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 375000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.AeHmM4b1mm2ZcWah",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934213073,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "imFhDhjElRyBJJkh",
+      "_key": "!journal.pages!lbkJLfK22rZR5TUo.imFhDhjElRyBJJkh"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717785010380,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 1000000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "lbkJLfK22rZR5TUo",
+  "_key": "!journal!lbkJLfK22rZR5TUo"
+}

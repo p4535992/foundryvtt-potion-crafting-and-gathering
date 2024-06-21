@@ -1,0 +1,94 @@
+{
+  "folder": "XnMlxg3YXW2ZnZ77",
+  "name": "Pixie's Parasol",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "e865ea3b3d64479e6c3ce87e027801a99e886f1a",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Pixie's Parasol",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>A tiny mushroom, though with it's bright blue cap and white stalk and gills but one hard to miss. At night, they are downright easy to find due to their bioluminescence. They are key ingredients in many potions and inks. Harvesting them may be a hassle, though, since pixies often defend them from those who wish to take them.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 1400000,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.Xw8wxoJ9zpVRBi00",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 15,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934213382,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "9MFLqEBiElBTkuzS",
+      "_key": "!journal.pages!id1Bz3EWWIAA7yLz.9MFLqEBiElBTkuzS"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717785001149,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 100000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "id1Bz3EWWIAA7yLz",
+  "_key": "!journal!id1Bz3EWWIAA7yLz"
+}

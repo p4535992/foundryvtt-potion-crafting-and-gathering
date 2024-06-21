@@ -1,0 +1,257 @@
+{
+  "name": "Gathering: Mountains",
+  "description": "<p>Roll [[/skill nature]] to determine what ingredients can be discovered</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "_id": "PSu9ZTWPhYy9Oqxk",
+      "text": "<b>Uncommon Ingredients (DC 15)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!s7qHvroY2LKyO739.PSu9ZTWPhYy9Oqxk"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Singing Nettle",
+      "documentId": "rbY0sV31nL3ttm87",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "UNNMLOEZPTU7wrXP",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.UNNMLOEZPTU7wrXP"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Sourgrass",
+      "documentId": "moPsAYvCzHAXVOHe",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4AlosZQ6q3GtkoRi",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.4AlosZQ6q3GtkoRi"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Lightning Moss",
+      "documentId": "4lfyOmHCiaw9XI5g",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uSSK7FkNeiJnZ2fu",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.uSSK7FkNeiJnZ2fu"
+    },
+    {
+      "type": 0,
+      "documentCollection": "Actor",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "ba0bIplA6SZAq08c",
+      "text": "<b>Rare Ingredients (DC 20)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!s7qHvroY2LKyO739.ba0bIplA6SZAq08c"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Idle Claws",
+      "documentId": "Pszwb4ULFyuCfBNt",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "PVKl2OwDg2WTYo5P",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.PVKl2OwDg2WTYo5P"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Pixie's Parasol",
+      "documentId": "id1Bz3EWWIAA7yLz",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "TsX98sGLaU0gmasg",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.TsX98sGLaU0gmasg"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Rainbow Mushroom",
+      "documentId": "iYiqs7oueTpNf85B",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gSNiZIwITQ86BYvZ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.gSNiZIwITQ86BYvZ"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Silverthorn",
+      "documentId": "7caHb0t1zo6zKGfA",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "32PDqHCBXjZvQtfA",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.32PDqHCBXjZvQtfA"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Wolfsbane",
+      "documentId": "kKre8PaueaI15Jrf",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "EAPRr34F9yWmsEej",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!s7qHvroY2LKyO739.EAPRr34F9yWmsEej"
+    }
+  ],
+  "formula": "20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.aq1FKWlWJyY7VUa0",
+      "hash": "3acb13d9e48e001c00ce2a2e0d810df24d95b9cb"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1717785205639,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "TvwAbXFsj3fssBgd",
+  "ownership": {
+    "default": 0
+  },
+  "_id": "s7qHvroY2LKyO739",
+  "sort": 0,
+  "_key": "!tables!s7qHvroY2LKyO739"
+}

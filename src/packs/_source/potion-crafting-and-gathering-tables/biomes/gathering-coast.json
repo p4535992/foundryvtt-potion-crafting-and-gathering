@@ -1,0 +1,235 @@
+{
+  "name": "Gathering: Coast",
+  "description": "<p>Roll [[/skill nature]] to determine what ingredients can be discovered</p>",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        10,
+        20
+      ],
+      "drawn": false,
+      "_id": "PSu9ZTWPhYy9Oqxk",
+      "text": "<b>Common Ingredients (DC 10)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.PSu9ZTWPhYy9Oqxk"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        10,
+        20
+      ],
+      "drawn": false,
+      "text": "Gillyweed",
+      "documentId": "D16YRFdmBrFFgq0c",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "5IflzDwp4NxUJhod",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.5IflzDwp4NxUJhod"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        10,
+        20
+      ],
+      "drawn": false,
+      "text": "Dreamlily",
+      "documentId": "JW2NONAGJ7F5v1kk",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i0KnSx5EDUXZecwr",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.i0KnSx5EDUXZecwr"
+    },
+    {
+      "type": 0,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "_id": "P7yLk0FrNPsUiGJA",
+      "text": "<b>Uncommon Ingredients (DC 15)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.P7yLk0FrNPsUiGJA"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Lightning Moss",
+      "documentId": "4lfyOmHCiaw9XI5g",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "FwyfDi4ODN9X54qj",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.FwyfDi4ODN9X54qj"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        15,
+        20
+      ],
+      "drawn": false,
+      "text": "Willowshade Fruit",
+      "documentId": "D90BULTIZaVutOBQ",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "sEVbXxNyW65sQNVT",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.sEVbXxNyW65sQNVT"
+    },
+    {
+      "type": 0,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "Cy4x3HnjDhk4m7ct",
+      "text": "<b>Rare Ingredients (DC 20)</b>",
+      "documentId": null,
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "img": "icons/svg/d20-black.svg",
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.Cy4x3HnjDhk4m7ct"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "Moonstalker",
+      "documentId": "I0USTRPVudN1mqW6",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "WPD3WizdC877htOR",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.WPD3WizdC877htOR"
+    },
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-journal",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "text": "White Ghost Orchid Seed",
+      "documentId": "pw6PLavEEec4dkx7",
+      "img": "icons/svg/d20-black.svg",
+      "_id": "Bt8WBHRTRDl5yKob",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": ""
+          }
+        }
+      },
+      "_key": "!tables.results!ukp7lWTzca9VyzBR.Bt8WBHRTRDl5yKob"
+    }
+  ],
+  "formula": "20",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": false,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "sourceId": "RollTable.uywZMTyIZhP9s09P",
+      "hash": "ee5f07f775a4e5569b6984782528a00ad5323bda"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1717785204209,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "folder": "TvwAbXFsj3fssBgd",
+  "ownership": {
+    "default": 0
+  },
+  "_id": "ukp7lWTzca9VyzBR",
+  "sort": 600000,
+  "_key": "!tables!ukp7lWTzca9VyzBR"
+}

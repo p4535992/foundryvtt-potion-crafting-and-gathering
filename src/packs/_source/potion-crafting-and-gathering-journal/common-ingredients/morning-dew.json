@@ -1,0 +1,94 @@
+{
+  "folder": "47dY51UpgRXlMYte",
+  "name": "Morning Dew",
+  "flags": {
+    "monks-enhanced-journal": {
+      "pagetype": "text",
+      "img": "modules/monks-enhanced-journal/assets/text.png"
+    },
+    "scene-packer": {
+      "hash": "a3937b1320e5f71b52b9add787cb4ae66b564bc0",
+      "sourceId": "JournalEntry.7ySTA4YCCDDz1QaV"
+    }
+  },
+  "pages": [
+    {
+      "type": "text",
+      "name": "Morning Dew",
+      "title": {
+        "show": true,
+        "level": 2
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>This plant grows into either a large shrub or small tree and seems to reproduce via root systems since it has no flowers of any kind. The long, narrow leaves of this plant are used in teas and medicine.</p>",
+        "markdown": ""
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "system": {},
+      "sort": 193750,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {
+        "core": {
+          "sheetClass": "gatherer.GathererSheet"
+        },
+        "monks-enhanced-journal": {
+          "appendix": false,
+          "pagetype": "text",
+          "img": "modules/monks-enhanced-journal/assets/text.png"
+        },
+        "gatherer": {
+          "table": "RollTable.vMCh2FUdhSXfBuJh",
+          "time": null,
+          "draws": null,
+          "quantity": "",
+          "require": "",
+          "minigame": null,
+          "expression": "",
+          "systemAbil": "str",
+          "DC": null,
+          "toolCheck": "Herbalism Kit",
+          "toolDC": 10,
+          "data": {
+            "uuid": "JournalEntry.7ySTA4YCCDDz1QaV.JournalEntryPage.PI29Msn1m6AA4RcW",
+            "drawsUsed": 0,
+            "firstDrawTime": 0,
+            "hasTime": false,
+            "hasDraws": false
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "coreVersion": "11.315",
+        "createdTime": 1716927060450,
+        "modifiedTime": 1716934213168,
+        "lastModifiedBy": "packsbuilder0000"
+      },
+      "_id": "TRxgCOQFqy6OTEIE",
+      "_key": "!journal.pages!0jiwYGWXbYuzPxqU.TRxgCOQFqy6OTEIE"
+    }
+  ],
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1716927058808,
+    "modifiedTime": 1717784996690,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "sort": 150000,
+  "ownership": {
+    "default": 0
+  },
+  "_id": "0jiwYGWXbYuzPxqU",
+  "_key": "!journal!0jiwYGWXbYuzPxqU"
+}

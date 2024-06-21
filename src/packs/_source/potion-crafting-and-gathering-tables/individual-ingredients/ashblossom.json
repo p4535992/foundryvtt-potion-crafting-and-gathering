@@ -1,0 +1,59 @@
+{
+  "folder": "YG1nH5ZGeQGZTjFl",
+  "name": "Ashblossom",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 2,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "text": "Ashblossom",
+      "documentId": "f9G9joeHSclgyXNL",
+      "img": "icons/commodities/flowers/clover-purple.webp",
+      "_id": "dbTBQu4WARdIfhSC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d6"
+          }
+        }
+      },
+      "_key": "!tables.results!nZeHYyMzxZS9325Z.dbTBQu4WARdIfhSC"
+    }
+  ],
+  "formula": "1",
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "scene-packer": {
+      "hash": "5a39333448349f24ad5f6678735e7194ccc82c9a"
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.2.0",
+    "coreVersion": "11.315",
+    "createdTime": 1674400520027,
+    "modifiedTime": 1717784812800,
+    "lastModifiedBy": "packsbuilder0000"
+  },
+  "_id": "nZeHYyMzxZS9325Z",
+  "_key": "!tables!nZeHYyMzxZS9325Z"
+}
