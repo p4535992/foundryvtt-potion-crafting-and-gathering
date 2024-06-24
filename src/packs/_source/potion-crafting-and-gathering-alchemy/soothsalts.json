@@ -150,10 +150,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665861044219,
     "modifiedTime": 1666007922803,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "SwR5HXZIayKe9wRQ",
   "folder": null,

@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Pomander of Warding",
-      "icon": "icons/consumables/vegetable/garlic-lautrec-pink.webp",
       "origin": "Item.9GZEN1z5fxIRmjaQ",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "VD22MJmDp8uE94wZ",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Pomander of Warding",
+      "img": "icons/consumables/vegetable/garlic-lautrec-pink.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!9GZEN1z5fxIRmjaQ.VD22MJmDp8uE94wZ"
     }
   ],
@@ -136,10 +151,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665872893176,
     "modifiedTime": 1666007889473,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "9GZEN1z5fxIRmjaQ",
   "folder": null,

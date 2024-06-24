@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Midnight Oil",
-      "icon": "icons/sundries/lights/candle-lit-yellow.webp",
       "origin": "Item.d2Y3PCs0OE3HrNXe",
       "duration": {
         "rounds": 1,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "GIwBRUS9GX7ibCdk",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -102,6 +100,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Midnight Oil",
+      "img": "icons/sundries/lights/candle-lit-yellow.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!d2Y3PCs0OE3HrNXe.GIwBRUS9GX7ibCdk"
     }
   ],
@@ -131,10 +146,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666011449872,
     "modifiedTime": 1666012953077,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "d2Y3PCs0OE3HrNXe",
   "folder": null,

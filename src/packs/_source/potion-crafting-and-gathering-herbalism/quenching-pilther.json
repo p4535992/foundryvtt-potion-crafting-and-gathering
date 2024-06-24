@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Quenched",
-      "icon": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
       "origin": "Item.i1n6hdw1K0gxGwTQ",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "yw5TcRcgJrEKGdkK",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": true,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Quenched",
+      "img": "icons/consumables/potions/bottle-conical-corked-labeled-shell-cyan.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!i1n6hdw1K0gxGwTQ.yw5TcRcgJrEKGdkK"
     }
   ],
@@ -137,10 +152,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665691469138,
     "modifiedTime": 1666007889495,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "i1n6hdw1K0gxGwTQ",
   "folder": null,

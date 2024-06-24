@@ -161,8 +161,6 @@
   },
   "effects": [
     {
-      "label": "Potion of Poison Resistance - Consumable Effects",
-      "icon": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
       "changes": [
         {
           "key": "system.traits.dr.value",
@@ -180,7 +178,7 @@
         "startTurn": null,
         "combat": null
       },
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "disabled": false,
       "flags": {
@@ -199,6 +197,23 @@
       },
       "_id": "QArhjGa53NxFjJ8s",
       "origin": null,
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Poison Resistance - Consumable Effects",
+      "img": "icons/consumables/potions/potion-tube-corked-glowing-red.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!LPEKhzRjjwlhAaYh.QArhjGa53NxFjJ8s"
     }
   ],
@@ -206,10 +221,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666010241452,
     "modifiedTime": 1666014553704,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "LPEKhzRjjwlhAaYh",
   "folder": null,

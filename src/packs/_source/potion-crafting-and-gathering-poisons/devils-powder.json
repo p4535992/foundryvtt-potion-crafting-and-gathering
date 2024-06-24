@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Devil's Powder",
-      "icon": "icons/consumables/food/salt-seasoning-spice-pink.webp",
       "origin": "Item.wZtnW8NiNBXaWTvB",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "jVhE36XF5uQeZd3Y",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -102,6 +100,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Devil's Powder",
+      "img": "icons/consumables/food/salt-seasoning-spice-pink.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!OlHm63B7QG6Yk8EZ.jVhE36XF5uQeZd3Y"
     }
   ],
@@ -148,10 +163,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666041137491,
     "modifiedTime": 1666041854838,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,

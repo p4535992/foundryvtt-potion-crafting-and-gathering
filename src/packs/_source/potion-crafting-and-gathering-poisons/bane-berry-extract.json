@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Bane Berry Extract",
-      "icon": "icons/consumables/potions/bottle-pear-corked-pink.webp",
       "origin": "Item.lJirLb4bRl1LqvaO",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "WJwsfFOpD81JjJ5g",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -102,6 +100,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Bane Berry Extract",
+      "img": "icons/consumables/potions/bottle-pear-corked-pink.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!yXlEdxbGry90qtyN.WJwsfFOpD81JjJ5g"
     }
   ],
@@ -148,10 +163,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666101618847,
     "modifiedTime": 1666219486625,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,

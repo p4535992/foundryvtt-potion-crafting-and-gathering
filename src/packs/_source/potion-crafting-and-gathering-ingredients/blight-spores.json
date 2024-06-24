@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Blight Spore Poison",
-      "icon": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
       "origin": "Item.hJMFlmpilZ8LpVKE",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "si035Qn8x6pwtjzz",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Blight Spore Poison",
+      "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!hJMFlmpilZ8LpVKE.si035Qn8x6pwtjzz"
     }
   ],
@@ -150,10 +165,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665864107575,
     "modifiedTime": 1666006615773,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "hJMFlmpilZ8LpVKE",
   "folder": null,

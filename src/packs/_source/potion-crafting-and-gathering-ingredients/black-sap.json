@@ -4,8 +4,6 @@
   "img": "icons/creatures/slimes/slime-movement-pseudopods-blue.webp",
   "effects": [
     {
-      "label": "Black Sap Poison",
-      "icon": "icons/tools/laboratory/bowl-liquid-black.webp",
       "origin": "Item.N0AouALqeIy09kCX",
       "duration": {
         "rounds": null,
@@ -26,7 +24,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -41,11 +39,26 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Black Sap Poison",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!N0AouALqeIy09kCX.kz3cDuK1jPKGRUIC"
     },
     {
-      "label": "Charmed/Frightened Immunity",
-      "icon": "icons/tools/laboratory/bowl-liquid-black.webp",
       "origin": "Item.N0AouALqeIy09kCX",
       "duration": {
         "startTime": null,
@@ -59,7 +72,7 @@
       "disabled": false,
       "_id": "WFZDrJnatMrqXOmF",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -74,6 +87,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Charmed/Frightened Immunity",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!N0AouALqeIy09kCX.WFZDrJnatMrqXOmF"
     }
   ],
@@ -224,10 +254,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665841141180,
     "modifiedTime": 1666219770027,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "N0AouALqeIy09kCX",
   "folder": null,

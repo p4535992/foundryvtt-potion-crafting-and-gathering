@@ -161,8 +161,6 @@
   },
   "effects": [
     {
-      "label": "Potion of Cold Resistance - Consumable Effects",
-      "icon": "icons/consumables/potions/bottle-round-corked-yellow.webp",
       "changes": [
         {
           "key": "system.traits.dr.value",
@@ -180,7 +178,7 @@
         "startTurn": null,
         "combat": null
       },
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "disabled": false,
       "flags": {
@@ -199,6 +197,23 @@
       },
       "_id": "pfXXUZr2ROHatUPu",
       "origin": null,
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Cold Resistance - Consumable Effects",
+      "img": "icons/consumables/potions/bottle-round-corked-yellow.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!aPRvt8ocEIx90pDC.pfXXUZr2ROHatUPu"
     }
   ],
@@ -206,10 +221,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666010241439,
     "modifiedTime": 1666014553700,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "aPRvt8ocEIx90pDC",
   "folder": null,

@@ -204,11 +204,26 @@
         "startRound": null,
         "startTurn": null
       },
-      "icon": "systems/dnd5e/icons/items/potions/unique-6.jpg",
-      "label": "Potion of Heroism",
       "origin": "Item.C8IK7UYrTxcOC8Bx",
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Heroism",
+      "img": "systems/dnd5e/icons/items/potions/unique-6.jpg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!Q6fYSgZiPZjXLim8.r25a16ze0cCMgeBV"
     }
   ],
@@ -216,10 +231,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666010238981,
     "modifiedTime": 1666012953088,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "Q6fYSgZiPZjXLim8",
   "folder": null,

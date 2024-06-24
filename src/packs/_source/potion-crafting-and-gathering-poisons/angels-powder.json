@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Angel's Powder",
-      "icon": "icons/commodities/materials/bowl-powder-grey.webp",
       "origin": "Item.skOuDxgSEwk31k2m",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "WiKVtxc84AKYInuj",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -102,6 +100,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Angel's Powder",
+      "img": "icons/commodities/materials/bowl-powder-grey.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!LACxgInxIOos3xaf.WiKVtxc84AKYInuj"
     }
   ],
@@ -148,10 +163,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666100608304,
     "modifiedTime": 1666219414067,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,

@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Greater Antitoxin",
-      "icon": "icons/consumables/potions/conical-ornate-purple.webp",
       "origin": "Item.5gWo8DBZYDf5a7il",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "AJurKm3Nmof0fBCz",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": true,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Greater Antitoxin",
+      "img": "icons/consumables/potions/conical-ornate-purple.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!5gWo8DBZYDf5a7il.AJurKm3Nmof0fBCz"
     }
   ],
@@ -136,10 +151,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665841608620,
     "modifiedTime": 1666007889458,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "5gWo8DBZYDf5a7il",
   "folder": null,

@@ -16,13 +16,27 @@
 
 Most of the original work was done by [action-jay](https://github.com/action-jay/) if you are feeling generous buy him a coffee [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/user/membership?u=78783518) and if you are feeling even more generous one for me too [![alt-text](https://img.shields.io/badge/-Patreon-%23ff424d?style=for-the-badge)](https://www.patreon.com/p4535992)
 
+# NOTE: This module is been offcialy transfered to [Potion Crafting and Gathering by theRipper93](https://github.com/theripper93/potion-crafting-and-gathering), but for anyone interested i will keep this fork for my own purpose as developer.
 
-This contains compendium db files and roll tables for gathering materials and crafting items using an Herbalism, Alchemist, and Poisoner kits.
+This guide provides expanded rules and details for potion brewing and ingredient gathering in Dungeons & Dragons 5th Edition. It focuses on three main toolkits: alchemist supplies, herbalism kit, and poisoner's kit. The document includes:
+
+1. **Recipes**: Guidelines on how to use, obtain, and price recipes for potions and poisons. Recipes are categorized by rarity (common, uncommon, rare, very rare) and include specific ingredients and crafting times.
+
+2. **Ingredient Gathering**: Rules for finding and harvesting plants, fungi, and animal parts. The difficulty of gathering ingredients is based on the environment and the rarity of the items.
+
+3. **Potion Making Leveling System**: A system for gaining experience in potion making. Players can level up their potion-making abilities, gaining bonuses to their crafting checks.
+
+4. **Alchemist Supplies, Herbalism Kit, and Poisoner's Kit**: Detailed contents and uses for each kit, including common to very rare recipes that can be crafted using these kits.
+
+5. **Gatherable Plants and Fungi, Inorganic Materials, Harvestable Creature Parts**: Lists of ingredients that can be gathered from various environments, along with their uses in crafting potions and poisons.
+
+6. **Crafting Rules**: Specific rules for crafting potions, including required materials, time, costs, and the process for making crafting checks.
+
+## Foundry Integration
+
+This content has been adapted to work with FVTT by [action\_jay](<http://www.actionjay.com/>) with appropriate tables and journals. It's intended to be used with the [Mastercrafted](https://foundryvtt.com/packages/mastercrafted) and [Gatherer](https://foundryvtt.com/packages/gatherer) modules to automate the gathering and crafting process but it can be used without the modules.
 
 The material referenced here comes from "Potion Brewing and Ingredient Gathering for DnD 5e" by piccolo917 available free on GM Binder at [Potion Brewing and Ingredient Gathering for DnD 5e](https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV) or here on the project [Potion Brewing and Ingredient Gathering for DnD 5e (Local)](https://raw.githubusercontent.com/p4535992/foundryvtt-potion-crafting-and-gathering/master/wiki/docs/Potion_Brewing_and_Ingredien_Gathering_for_DnD5e_GM_Binder.pdf)
-
-The Gathering Journal entry and Recipe books require theripper93's **Gatherer and Mastercrafted premium modules**. More information on those at https://theripper93.com/
-
 
 These [recipes](/src/assets/recipes/) can be imported into theripper93's Mastercrafted module. You'll need to create a placeholder recipe book, then right click and import the desired collection from these files.
 
@@ -136,5 +150,18 @@ Any issues, bugs, or feature requests are always welcome to be reported directly
 This package is under an [MIT license](LICENSE) and the [Foundry Virtual Tabletop Limited License Agreement for module development](https://foundryvtt.com/article/license/).
 
 ## Credit
+
+## Support the original creator of the homebrew
+
+- [Source](https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV)
+- [Patreon](https://www.patreon.com/user/membership?u=78783518)
+- [Tips](https://www.buymeacoffee.com/piccolo917)
+
+## Credits
+
+- Content is by [piccolo917](<https://www.patreon.com/user/posts?u=78783518>)
+- Source: [Potion Brewing and Ingredient Gathering for DnD 5e](<https://www.gmbinder.com/share/-MNG6P6I8-1tJM3aroaV>)
+- Nerd work by [action\_jay](<http://www.actionjay.com/>)
+- Gatherer and Mastercrafted modules and package management by [theripper93](<https://www.patreon.com/theripper93/posts>)
 
 Thanks to anyone who helps me with this code! I appreciate the user community's feedback on this project!

@@ -340,7 +340,8 @@
     "ui": true,
     "DND5E": true,
     "FilePicker": true,
-    "Dialog": true
+    "Dialog": true,
+    "SettingsConfig": true
   }
 }
 

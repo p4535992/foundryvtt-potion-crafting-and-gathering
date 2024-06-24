@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Potion of Protection",
-      "icon": "icons/consumables/potions/bottle-corked-empty.webp",
       "origin": "Item.augf8aBoKEZF6QCw",
       "duration": {
         "rounds": 1,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "7MZNkPubnAHsLPt3",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": true,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Protection",
+      "img": "icons/consumables/potions/bottle-corked-empty.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!augf8aBoKEZF6QCw.7MZNkPubnAHsLPt3"
     }
   ],
@@ -136,10 +151,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665874888837,
     "modifiedTime": 1666007889484,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "augf8aBoKEZF6QCw",
   "folder": null,

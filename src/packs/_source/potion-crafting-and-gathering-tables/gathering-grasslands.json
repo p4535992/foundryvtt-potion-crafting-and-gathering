@@ -1,0 +1,215 @@
+{
+  "name": "Gathering: Grasslands",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "text": "Bloodroot",
+      "type": "pack",
+      "img": "icons/consumables/plants/thorned-dried-stem-red.webp",
+      "weight": 2,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "w301PsLNumSYWCUb",
+      "documentId": "S9WUHdPbBP3XPpJO",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.w301PsLNumSYWCUb"
+    },
+    {
+      "text": "Cat's Tongue",
+      "type": "pack",
+      "img": "icons/consumables/plants/mint-dried-green.webp",
+      "weight": 3,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "XVOry8UpBOGVpFkl",
+      "documentId": "8U61IScvrNcit1ZJ",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.XVOry8UpBOGVpFkl"
+    },
+    {
+      "text": "Dreamlily",
+      "type": "pack",
+      "img": "icons/commodities/flowers/lily-white.webp",
+      "weight": 3,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "PYLJHdmou7ZRtOPj",
+      "documentId": "jjxoFljmT5atbIT8",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.PYLJHdmou7ZRtOPj"
+    },
+    {
+      "text": "Everfrost Berry",
+      "type": "pack",
+      "img": "icons/consumables/fruit/berry-shiny-leaf-blue-teal.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "mfRjzFYypJ7mYmyS",
+      "documentId": "sgg30hrdXOD3vAGC",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "3d6"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.mfRjzFYypJ7mYmyS"
+    },
+    {
+      "text": "Morning Dew",
+      "type": "pack",
+      "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
+      "weight": 3,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "IXqBBB8xHGclKInw",
+      "documentId": "q56qk1upHBqOeFo0",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.IXqBBB8xHGclKInw"
+    },
+    {
+      "text": "Olisuba Leaf",
+      "type": "pack",
+      "img": "icons/magic/nature/leaf-glow-triple-green.webp",
+      "weight": 2,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "qWDvCtTseyJk0JZE",
+      "documentId": "pENSKogWx0Tz0fzn",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d6"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.qWDvCtTseyJk0JZE"
+    },
+    {
+      "text": "Pixie's Parasol",
+      "type": "pack",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "82CtEzWREbc0zwOe",
+      "documentId": "WglM0mvztSmJL7Lv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d12"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.82CtEzWREbc0zwOe"
+    },
+    {
+      "text": "Sourgrass",
+      "type": "pack",
+      "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
+      "weight": 2,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "tgfwR7EqoxHAq0Ka",
+      "documentId": "5SU6evgnA2ocp13r",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "2d4"
+          }
+        }
+      },
+      "_key": "!tables.results!VYVMhkw2JS3JRl16.tgfwR7EqoxHAq0Ka"
+    }
+  ],
+  "formula": "1d8",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "12.327",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1666008235467,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "VYVMhkw2JS3JRl16",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!VYVMhkw2JS3JRl16"
+}

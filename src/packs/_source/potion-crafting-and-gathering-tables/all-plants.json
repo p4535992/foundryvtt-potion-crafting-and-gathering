@@ -4,7 +4,7 @@
   "results": [
     {
       "text": "Acid Dew",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/biological/tentacle-thorned-green.webp",
       "weight": 2,
       "range": [
@@ -26,7 +26,7 @@
     },
     {
       "text": "Angel's Trumpet",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/flowers/lily-grey-orange.webp",
       "weight": 1,
       "range": [
@@ -48,7 +48,7 @@
     },
     {
       "text": "Ashblossom",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/flowers/clover-purple.webp",
       "weight": 1,
       "range": [
@@ -70,7 +70,7 @@
     },
     {
       "text": "Bane Berry",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/flowers/buds-red-green.webp",
       "weight": 2,
       "range": [
@@ -92,7 +92,7 @@
     },
     {
       "text": "Black Cap Mushroom",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/ovate-blue.webp",
       "weight": 1,
       "range": [
@@ -114,7 +114,7 @@
     },
     {
       "text": "Black Sap",
-      "type": 2,
+      "type": "pack",
       "img": "icons/tools/laboratory/bowl-liquid-black.webp",
       "weight": 1,
       "range": [
@@ -136,7 +136,7 @@
     },
     {
       "text": "Blight Spores",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/umbontae-hot-pink.webp",
       "weight": 1,
       "range": [
@@ -158,7 +158,7 @@
     },
     {
       "text": "Bloodroot",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/thorned-dried-stem-red.webp",
       "weight": 2,
       "range": [
@@ -180,7 +180,7 @@
     },
     {
       "text": "Cat's Tongue",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/mint-dried-green.webp",
       "weight": 3,
       "range": [
@@ -202,7 +202,7 @@
     },
     {
       "text": "Death Cap",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/conical-bell-yellow.webp",
       "weight": 1,
       "range": [
@@ -224,7 +224,7 @@
     },
     {
       "text": "Dreamlily",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/flowers/lily-white.webp",
       "weight": 3,
       "range": [
@@ -246,7 +246,7 @@
     },
     {
       "text": "Everfrost Berry",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/fruit/berry-shiny-leaf-blue-teal.webp",
       "weight": 1,
       "range": [
@@ -268,7 +268,7 @@
     },
     {
       "text": "Fairy Stool",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/umbontae-pink.webp",
       "weight": 1,
       "range": [
@@ -290,7 +290,7 @@
     },
     {
       "text": "Fire Peas",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/vegetable/lima-beans-pod-brown.webp",
       "weight": 2,
       "range": [
@@ -312,7 +312,7 @@
     },
     {
       "text": "Flame Lily",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/flax-leaves-spiked-bundle-orange.webp",
       "weight": 2,
       "range": [
@@ -334,7 +334,7 @@
     },
     {
       "text": "Frost Lichen",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/leaf-broad-blue.webp",
       "weight": 2,
       "range": [
@@ -356,7 +356,7 @@
     },
     {
       "text": "Gillyweed",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/basil-herb-green.webp",
       "weight": 3,
       "range": [
@@ -378,7 +378,7 @@
     },
     {
       "text": "Hagfinger",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/vegetable/root-parsnip-grey.webp",
       "weight": 1,
       "range": [
@@ -400,7 +400,7 @@
     },
     {
       "text": "Idle Claws",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/biological/tentacle-yellow.webp",
       "weight": 1,
       "range": [
@@ -422,7 +422,7 @@
     },
     {
       "text": "Lightning Moss",
-      "type": 2,
+      "type": "pack",
       "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
       "weight": 2,
       "range": [
@@ -444,7 +444,7 @@
     },
     {
       "text": "Mandrake Root",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
       "weight": 2,
       "range": [
@@ -466,7 +466,7 @@
     },
     {
       "text": "Mindflayer Stinkhorn",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/alien-spotted-blue.webp",
       "weight": 2,
       "range": [
@@ -488,7 +488,7 @@
     },
     {
       "text": "Moonstalker",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/flowers/dandelion-pod-blue.webp",
       "weight": 1,
       "range": [
@@ -510,7 +510,7 @@
     },
     {
       "text": "Morning Dew",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/cilantro-parsley-herb-leaf-green.webp",
       "weight": 3,
       "range": [
@@ -532,7 +532,7 @@
     },
     {
       "text": "Muroosa Twigs",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/fern-sword-green.webp",
       "weight": 2,
       "range": [
@@ -554,7 +554,7 @@
     },
     {
       "text": "Nightshade",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/leaf-pink.webp",
       "weight": 2,
       "range": [
@@ -576,7 +576,7 @@
     },
     {
       "text": "Olisuba Leaf",
-      "type": 2,
+      "type": "pack",
       "img": "icons/magic/nature/leaf-glow-triple-green.webp",
       "weight": 2,
       "range": [
@@ -598,7 +598,7 @@
     },
     {
       "text": "Pixie's Parasol",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
       "weight": 1,
       "range": [
@@ -620,7 +620,7 @@
     },
     {
       "text": "Rainbow Mushroom",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
       "weight": 1,
       "range": [
@@ -642,7 +642,7 @@
     },
     {
       "text": "Red Amanita Mushroom",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/mushrooms/helm-red-white.webp",
       "weight": 3,
       "range": [
@@ -664,7 +664,7 @@
     },
     {
       "text": "Silverthorn",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/thorned-dried-stem-brown.webp",
       "weight": 1,
       "range": [
@@ -686,7 +686,7 @@
     },
     {
       "text": "Singing Nettle",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/thorned-curled-vine-green.webp",
       "weight": 2,
       "range": [
@@ -708,7 +708,7 @@
     },
     {
       "text": "Sourgrass",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/plants/grass-curcled-bundle-green.webp",
       "weight": 2,
       "range": [
@@ -730,7 +730,7 @@
     },
     {
       "text": "Theki Root",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/biological/tentacle-thorned-green.webp",
       "weight": 2,
       "range": [
@@ -752,7 +752,7 @@
     },
     {
       "text": "White Ghost Orchid Seed",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/nuts/cashew-white.webp",
       "weight": 1,
       "range": [
@@ -774,7 +774,7 @@
     },
     {
       "text": "Willowshade Fruit",
-      "type": 2,
+      "type": "pack",
       "img": "icons/consumables/fruit/date-ripe-red-green.webp",
       "weight": 2,
       "range": [
@@ -796,7 +796,7 @@
     },
     {
       "text": "Wolfsbane",
-      "type": 2,
+      "type": "pack",
       "img": "icons/commodities/flowers/strawberry-single-white.webp",
       "weight": 1,
       "range": [
@@ -836,10 +836,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665933450716,
     "modifiedTime": 1666008107934,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "Qszptw2PDK1MZwj0",
   "folder": null,

@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Ankheg Ichor",
-      "icon": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
       "origin": "Item.M6NM0PSPlkHUHTdO",
       "duration": {
         "rounds": null,
@@ -95,7 +93,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -110,6 +108,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Ankheg Ichor",
+      "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!M6NM0PSPlkHUHTdO.R9KKBJDZ7RbEdnZD"
     }
   ],
@@ -157,10 +172,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665869008213,
     "modifiedTime": 1666006629511,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "M6NM0PSPlkHUHTdO",
   "folder": null,

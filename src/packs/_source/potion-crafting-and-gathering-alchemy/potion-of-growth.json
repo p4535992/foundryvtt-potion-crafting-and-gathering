@@ -179,12 +179,27 @@
         "startRound": null,
         "startTurn": null
       },
-      "icon": "systems/dnd5e/icons/items/potions/unique-9.jpg",
-      "label": "Potion of Growth",
       "transfer": false,
       "disabled": false,
       "origin": null,
-      "tint": null,
+      "tint": "#ffffff",
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Growth",
+      "img": "systems/dnd5e/icons/items/potions/unique-9.jpg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!VKJUbbWyOdLPfIW6.b2Xw4C6jepxMELvZ"
     }
   ],
@@ -192,10 +207,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666010238974,
     "modifiedTime": 1666012953088,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "VKJUbbWyOdLPfIW6",
   "folder": null,

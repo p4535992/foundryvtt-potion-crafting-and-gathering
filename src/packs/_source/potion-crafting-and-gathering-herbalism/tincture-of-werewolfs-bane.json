@@ -78,8 +78,6 @@
   },
   "effects": [
     {
-      "label": "Werewolf's Bane",
-      "icon": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
       "origin": "Item.HaoqYzxdcao45krj",
       "duration": {
         "rounds": null,
@@ -93,7 +91,7 @@
       "disabled": false,
       "_id": "1qFoUT4x9qgb4MSS",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -108,6 +106,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Werewolf's Bane",
+      "img": "icons/consumables/potions/potion-flask-capped-yellow-green.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!HaoqYzxdcao45krj.1qFoUT4x9qgb4MSS"
     }
   ],
@@ -155,10 +170,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665874602437,
     "modifiedTime": 1666007889499,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "HaoqYzxdcao45krj",
   "folder": null,

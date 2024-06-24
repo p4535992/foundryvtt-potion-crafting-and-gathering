@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Mandrake Root Poison",
-      "icon": "icons/consumables/vegetable/root-potato-radish-white.webp",
       "origin": "Item.B6DIfwy19Ts5ikHU",
       "duration": {
         "rounds": null,
@@ -95,7 +93,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -110,6 +108,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Mandrake Root Poison",
+      "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!B6DIfwy19Ts5ikHU.XMKCWdlVEmsptJ2A"
     }
   ],
@@ -144,10 +159,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665866123070,
     "modifiedTime": 1666006615800,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "B6DIfwy19Ts5ikHU",
   "folder": null,

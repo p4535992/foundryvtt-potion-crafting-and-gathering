@@ -26,6 +26,16 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
       "_key": "!journal.pages!uAlVXBaJ6DV2LrVC.HOiZq02LDh6q3SWw"
     },
     {
@@ -53,6 +63,16 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
       "_key": "!journal.pages!uAlVXBaJ6DV2LrVC.9sPIlHwCQ6YoQmk2"
     },
     {
@@ -80,6 +100,16 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
       "_key": "!journal.pages!uAlVXBaJ6DV2LrVC.y3DESP7S3TnDOnjK"
     },
     {
@@ -107,6 +137,16 @@
         "default": -1
       },
       "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
       "_key": "!journal.pages!uAlVXBaJ6DV2LrVC.EnmJGpyBCcuxva4M"
     }
   ],
@@ -117,10 +157,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666199947905,
     "modifiedTime": 1666220621595,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,

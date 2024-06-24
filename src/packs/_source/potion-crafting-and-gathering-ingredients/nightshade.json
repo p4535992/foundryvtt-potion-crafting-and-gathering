@@ -78,8 +78,6 @@
   },
   "effects": [
     {
-      "label": "Nightshade Poison",
-      "icon": "icons/consumables/plants/leaf-pink.webp",
       "origin": "Item.PpZ5ysLIab4PNiCL",
       "duration": {
         "rounds": null,
@@ -100,7 +98,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -115,6 +113,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Nightshade Poison",
+      "img": "icons/consumables/plants/leaf-pink.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!PpZ5ysLIab4PNiCL.4TF9tLteRhEA4Qs2"
     }
   ],
@@ -163,10 +178,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665866879192,
     "modifiedTime": 1666006615806,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "PpZ5ysLIab4PNiCL",
   "folder": null,

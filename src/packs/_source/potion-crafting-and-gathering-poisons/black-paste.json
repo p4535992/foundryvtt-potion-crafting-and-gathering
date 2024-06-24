@@ -78,8 +78,6 @@
   },
   "effects": [
     {
-      "label": "Black Paste",
-      "icon": "icons/tools/laboratory/bowl-liquid-black.webp",
       "origin": "Item.themkdhfbwng47zF",
       "duration": {
         "rounds": null,
@@ -93,7 +91,7 @@
       "disabled": false,
       "_id": "VgEIiI2uyJpwipAX",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -107,6 +105,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Black Paste",
+      "img": "icons/tools/laboratory/bowl-liquid-black.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!Ah8N6bwh8wFtFByR.VgEIiI2uyJpwipAX"
     }
   ],
@@ -153,10 +168,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666101804194,
     "modifiedTime": 1666219510704,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,

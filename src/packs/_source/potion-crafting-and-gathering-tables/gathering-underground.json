@@ -1,0 +1,83 @@
+{
+  "name": "Gathering: Underground",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "text": "Mandrake Root",
+      "type": "pack",
+      "img": "icons/consumables/vegetable/root-potato-radish-white.webp",
+      "weight": 2,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "kV9ZiCunRZpOivy0",
+      "documentId": "B6DIfwy19Ts5ikHU",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!dkgHy4oOAhO2mqxJ.kV9ZiCunRZpOivy0"
+    },
+    {
+      "text": "Mindflayer Stinkhorn",
+      "type": "pack",
+      "img": "icons/consumables/mushrooms/alien-spotted-blue.webp",
+      "weight": 2,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "mZqMxOgNCAlaQsmR",
+      "documentId": "ebflYPaV5OfihxDW",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!dkgHy4oOAhO2mqxJ.mZqMxOgNCAlaQsmR"
+    }
+  ],
+  "formula": "1d2",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "12.327",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1666008338474,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "dkgHy4oOAhO2mqxJ",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!dkgHy4oOAhO2mqxJ"
+}

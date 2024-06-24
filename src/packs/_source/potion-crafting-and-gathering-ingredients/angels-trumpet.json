@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Confused",
-      "icon": "icons/commodities/flowers/lily-grey-orange.webp",
       "origin": "Item.2Q5eat8DBOS7E7Xf",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "2bMDUwUaYlWYHQA8",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Confused",
+      "img": "icons/commodities/flowers/lily-grey-orange.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!2Q5eat8DBOS7E7Xf.2bMDUwUaYlWYHQA8"
     }
   ],
@@ -156,10 +171,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665862483092,
     "modifiedTime": 1666006615758,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "2Q5eat8DBOS7E7Xf",
   "folder": null,

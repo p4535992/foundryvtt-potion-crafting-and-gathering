@@ -1,0 +1,127 @@
+{
+  "name": "Gathering: Hill",
+  "description": "A random table created from the contents of the Plants Folder.",
+  "results": [
+    {
+      "text": "Angel's Trumpet",
+      "type": "pack",
+      "img": "icons/commodities/flowers/lily-grey-orange.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "6zu70xPFy5xZTOr3",
+      "documentId": "2Q5eat8DBOS7E7Xf",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_key": "!tables.results!CIvugLRRsEfEe9oN.6zu70xPFy5xZTOr3"
+    },
+    {
+      "text": "Idle Claws",
+      "type": "pack",
+      "img": "icons/commodities/biological/tentacle-yellow.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "4YHtVFWVAChKplN5",
+      "documentId": "e9SUSA3TYHv9gxXl",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d4"
+          }
+        }
+      },
+      "_key": "!tables.results!CIvugLRRsEfEe9oN.4YHtVFWVAChKplN5"
+    },
+    {
+      "text": "Pixie's Parasol",
+      "type": "pack",
+      "img": "icons/consumables/mushrooms/campanulate-bell-shiny-blue.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "82CtEzWREbc0zwOe",
+      "documentId": "WglM0mvztSmJL7Lv",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d12"
+          }
+        }
+      },
+      "_key": "!tables.results!CIvugLRRsEfEe9oN.82CtEzWREbc0zwOe"
+    },
+    {
+      "text": "Rainbow Mushroom",
+      "type": "pack",
+      "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "potion-crafting-and-gathering.potion-crafting-and-gathering-ingredients",
+      "_id": "T2LkWh4tbpYOalo5",
+      "documentId": "O0eT04b4AYt7qvr9",
+      "flags": {
+        "better-rolltables": {
+          "brt-result-formula": {
+            "formula": "1d8"
+          }
+        }
+      },
+      "_key": "!tables.results!CIvugLRRsEfEe9oN.T2LkWh4tbpYOalo5"
+    }
+  ],
+  "formula": "1d4",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "better-rolltables": {
+      "tags": "",
+      "table-type": "better",
+      "table-currency-string": "",
+      "loot-amount-key": "",
+      "loot-actor-name": ""
+    },
+    "hidden-tables": {
+      "hidden": false
+    }
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.0.3",
+    "coreVersion": "12.327",
+    "createdTime": 1665933450716,
+    "modifiedTime": 1666008252219,
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "_id": "CIvugLRRsEfEe9oN",
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!CIvugLRRsEfEe9oN"
+}

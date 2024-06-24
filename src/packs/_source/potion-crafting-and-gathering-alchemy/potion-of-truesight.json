@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Truesight",
-      "icon": "icons/consumables/potions/potion-jar-corked-labeled-purple-pink.webp",
       "origin": "Item.dhsVGbyG9FpA1oCb",
       "duration": {
         "rounds": null,
@@ -95,7 +93,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -109,6 +107,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Truesight",
+      "img": "icons/consumables/potions/potion-jar-corked-labeled-purple-pink.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!dhsVGbyG9FpA1oCb.L8NtA6BiAXiIxhk3"
     }
   ],
@@ -138,10 +153,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666026412962,
     "modifiedTime": 1666026648300,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "dhsVGbyG9FpA1oCb",
   "folder": null,

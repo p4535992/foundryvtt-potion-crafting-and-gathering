@@ -4,8 +4,6 @@
   "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
   "effects": [
     {
-      "label": "Potion of Climbing - Consumable Effects",
-      "icon": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
       "changes": [
         {
           "key": "system.attributes.movement.climb",
@@ -29,7 +27,7 @@
         "startTurn": null,
         "combat": null
       },
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "disabled": false,
       "flags": {
@@ -48,6 +46,23 @@
       },
       "_id": "AMcH0aulWojBJph9",
       "origin": null,
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Climbing - Consumable Effects",
+      "img": "icons/consumables/potions/bottle-bulb-corked-labeled-blue.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!4Lo0EWc2jquFAc4K.AMcH0aulWojBJph9"
     }
   ],
@@ -221,10 +236,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665861034684,
     "modifiedTime": 1666007922801,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "4Lo0EWc2jquFAc4K",
   "folder": null,

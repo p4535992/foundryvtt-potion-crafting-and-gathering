@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Rainbow Mushroom Confusion",
-      "icon": "icons/consumables/mushrooms/convex-bolete-brown.webp",
       "origin": "Item.O0eT04b4AYt7qvr9",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "Jr58r2cDtELmeRL7",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Rainbow Mushroom Confusion",
+      "img": "icons/consumables/mushrooms/convex-bolete-brown.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!O0eT04b4AYt7qvr9.Jr58r2cDtELmeRL7"
     }
   ],
@@ -151,10 +166,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665867334572,
     "modifiedTime": 1666006615810,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "O0eT04b4AYt7qvr9",
   "folder": null,

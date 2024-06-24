@@ -190,11 +190,26 @@
         "startRound": null,
         "startTurn": null
       },
-      "icon": "systems/dnd5e/icons/items/potions/unique-10.jpg",
-      "label": "Potion of Flying",
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "origin": null,
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Flying",
+      "img": "systems/dnd5e/icons/items/potions/unique-10.jpg",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!XRYSJU59a4tE7QMK.CcTCTdDCsWCpKrNB"
     }
   ],
@@ -202,10 +217,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666010238967,
     "modifiedTime": 1666012953083,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "XRYSJU59a4tE7QMK",
   "folder": null,

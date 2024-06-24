@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Speak with Plants",
-      "icon": "icons/consumables/plants/leaf-veins-glowing-green.webp",
       "origin": "Item.oWgxhdYXSWTGjwjo",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "tqFZh92kLxboAmyk",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Speak with Plants",
+      "img": "icons/consumables/plants/leaf-veins-glowing-green.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!oWgxhdYXSWTGjwjo.tqFZh92kLxboAmyk"
     }
   ],
@@ -152,10 +167,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665689962214,
     "modifiedTime": 1666007889482,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "oWgxhdYXSWTGjwjo",
   "folder": null,

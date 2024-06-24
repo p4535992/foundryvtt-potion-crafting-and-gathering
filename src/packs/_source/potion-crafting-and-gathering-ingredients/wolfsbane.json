@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Wolfsbane Scent",
-      "icon": "icons/commodities/flowers/strawberry-single-white.webp",
       "origin": "Item.Ag50fstRwIuLyrhr",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "CPs9m6rpq2oTz3v5",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": true,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": "icons/commodities/flowers/strawberry-single-white.webp"
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Wolfsbane Scent",
+      "img": "icons/commodities/flowers/strawberry-single-white.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!Ag50fstRwIuLyrhr.CPs9m6rpq2oTz3v5"
     }
   ],
@@ -147,10 +162,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665868331436,
     "modifiedTime": 1666006615819,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "Ag50fstRwIuLyrhr",
   "folder": null,

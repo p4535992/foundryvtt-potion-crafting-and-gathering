@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Dreamlily Poison",
-      "icon": "icons/commodities/flowers/lily-white.webp",
       "origin": "Item.jjxoFljmT5atbIT8",
       "duration": {
         "rounds": 1,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "L4xm7yAfd1FxHBVW",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -103,6 +101,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Dreamlily Poison",
+      "img": "icons/commodities/flowers/lily-white.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!jjxoFljmT5atbIT8.L4xm7yAfd1FxHBVW"
     }
   ],
@@ -150,10 +165,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665865063726,
     "modifiedTime": 1666006615782,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "jjxoFljmT5atbIT8",
   "folder": null,

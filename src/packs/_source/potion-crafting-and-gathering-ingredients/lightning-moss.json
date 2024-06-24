@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Lightning Moss",
-      "icon": "icons/magic/lightning/barrier-wall-shield-gray.webp",
       "origin": "Item.MkUnBgXfcD2QwUwN",
       "duration": {
         "rounds": null,
@@ -95,7 +93,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -110,6 +108,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Lightning Moss",
+      "img": "icons/magic/lightning/barrier-wall-shield-gray.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!MkUnBgXfcD2QwUwN.8oCKUeVAmZw2L6J2"
     }
   ],
@@ -143,10 +158,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1665865855597,
     "modifiedTime": 1666006615798,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "MkUnBgXfcD2QwUwN",
   "folder": null,

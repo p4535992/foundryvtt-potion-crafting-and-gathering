@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Magebane",
-      "icon": "icons/consumables/drinks/wine-amphora-clay-red.webp",
       "origin": "Item.BOnslfdPXZNOnQ4x",
       "duration": {
         "rounds": null,
@@ -88,7 +86,7 @@
       "disabled": false,
       "_id": "gAV6fiXG3nYTdZe1",
       "changes": [],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -102,6 +100,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Magebane",
+      "img": "icons/consumables/drinks/wine-amphora-clay-red.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!i2se49eebXjBOmOT.gAV6fiXG3nYTdZe1"
     }
   ],
@@ -134,10 +149,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666043633947,
     "modifiedTime": 1666043759732,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,

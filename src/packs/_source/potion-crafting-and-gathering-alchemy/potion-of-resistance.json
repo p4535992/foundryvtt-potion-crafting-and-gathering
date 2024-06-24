@@ -161,8 +161,6 @@
   },
   "effects": [
     {
-      "label": "Potion of Resistance - Consumable Effects",
-      "icon": "icons/consumables/potions/bottle-round-corked-blue.webp",
       "changes": [
         {
           "key": "system.traits.dr.value",
@@ -234,7 +232,7 @@
         "startTurn": null,
         "combat": null
       },
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "disabled": false,
       "flags": {
@@ -253,6 +251,23 @@
       },
       "_id": "blMWw7cYhCV0hA7K",
       "origin": null,
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Potion of Resistance - Consumable Effects",
+      "img": "icons/consumables/potions/bottle-round-corked-blue.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!n1GKqHmjaTcQGC9G.blMWw7cYhCV0hA7K"
     }
   ],
@@ -260,10 +275,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666010239536,
     "modifiedTime": 1666012953092,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "_id": "n1GKqHmjaTcQGC9G",
   "folder": null,

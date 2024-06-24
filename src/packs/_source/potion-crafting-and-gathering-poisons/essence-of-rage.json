@@ -73,8 +73,6 @@
   },
   "effects": [
     {
-      "label": "Essence of Rage",
-      "icon": "icons/consumables/potions/flask-corked-yellow-glow.webp",
       "origin": "Item.xOhz3THIXFOm5AJQ",
       "duration": {
         "rounds": null,
@@ -95,7 +93,7 @@
           "priority": 20
         }
       ],
-      "tint": null,
+      "tint": "#ffffff",
       "transfer": false,
       "flags": {
         "dae": {
@@ -109,6 +107,23 @@
           "statusId": ""
         }
       },
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "name": "Essence of Rage",
+      "img": "icons/consumables/potions/flask-corked-yellow-glow.webp",
+      "type": "base",
+      "system": {},
+      "description": "",
+      "statuses": [],
+      "sort": 0,
       "_key": "!items.effects!3snkJrMRtaerbjgW.eKVGOpK35GTKIFYT"
     }
   ],
@@ -155,10 +170,12 @@
   "_stats": {
     "systemId": "dnd5e",
     "systemVersion": "2.0.3",
-    "coreVersion": "10.288",
+    "coreVersion": "12.327",
     "createdTime": 1666048096387,
     "modifiedTime": 1666048255579,
-    "lastModifiedBy": "packsbuilder0000"
+    "lastModifiedBy": "packsbuilder0000",
+    "compendiumSource": null,
+    "duplicateSource": null
   },
   "folder": null,
   "sort": 0,
