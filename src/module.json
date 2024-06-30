@@ -2,7 +2,7 @@
     "id": "potion-crafting-and-gathering",
     "title": "Potion Crafting & Gathering",
     "description": "Collating piccolo917's Potion Crafting & Gathering supplement for use in Foundry with theripper93's premium modules",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Action Jay",
@@ -21,20 +21,7 @@
             "email": ""
         }
     ],
-    "type": "module",
     "socket": true,
-    "includes": [
-        "./assets/**",
-        "./lang/**",
-        "./languages/**",
-        "./scripts/**",
-        "./styles/**",
-        "./templates/**",
-        "./module.json",
-        "./README.md",
-        "./icons/**",
-        "packs/**"
-    ],
     "media": [
         {
             "type": "icon",
@@ -157,18 +144,17 @@
             ]
         }
     ],
-    "systems": [],
     "scripts": [],
     "esmodules": ["module.js"],
     "styles": [],
     "compatibility": {
-        "minimum": 11,
+        "minimum": 12,
         "verified": 12,
         "maximum": 12
     },
     "url": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering",
-    "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/1.0.0/module.json",
-    "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/1.0.0/module.zip",
+    "manifest": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/1.0.1/module.json",
+    "download": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/releases/download/1.0.1/module.zip",
     "readme": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/README.md",
     "changelog": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/blob/master/CHANGELOG.md",
     "bugs": "https://github.com/p4535992/foundryvtt-potion-crafting-and-gathering/issues",
@@ -192,6 +178,20 @@
         ],
         "requires": [],
         "conflicts": [],
+        "recommend": [
+            {
+                "id": "compendium-themer",
+                "type": "module"
+            },
+            {
+                "id": "gatherer",
+                "type": "module"
+            },
+            {
+                "id": "mastercrafted",
+                "type": "module"
+            }
+        ],
         "optional": [
             {
                 "id": "compendium-themer",
